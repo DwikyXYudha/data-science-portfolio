@@ -39,7 +39,8 @@ The dataset used in this project is available on Kaggle:
 Prior to building the dashboard, I performed initial data preprocessing using Python to clean and transform the raw dataset. 
 
 You can find the preprocessed dataset here:
-- [Dataset]("https://github.com/username/data-science-portfolio/blob/main/power-bi/student-habits-academic-performance/data/student_habits_performance_preprocess_v1.csv?raw=true")
+- [Dataset](https://github.com/username/data-science-portfolio/blob/main/power-bi/data/student_habits_performance_preprocess_v1.csv?raw=true)
+
   
 You can find the preprocessed notebook here:
 - [Jupyter Notebook](https://github.com/username/data-science-portfolio/blob/main/power-bi/student-habits-academic-performance/notebook/student-habits-academic-performance.ipynb?raw=true)
