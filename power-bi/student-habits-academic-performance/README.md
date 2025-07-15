@@ -14,7 +14,7 @@ This Power BI dashboard delves into the intricate relationship between various s
 
 ### Dashboard File
 You can find the Power BI dashboard here:
-- 🔗 [Dashboard File (.pbix)](https://github.com/username/data-science-portfolio/blob/main/power-bi/student-habits-academic-performance/powerbi-student-performance-dashboard.pbix)
+- 🔗 [Dashboard File (.pbix)](https://github.com/DwikyXYudha/data-science-portfolio/blob/main/power-bi/student-habits-academic-performance/powerbi-student-performance-dashboard.pbix)
 
 ### How to Use This Dashboard  
 
@@ -43,7 +43,7 @@ You can find the preprocessed dataset here:
 
   
 You can find the preprocessed notebook here:
-- [Jupyter Notebook](https://github.com/username/data-science-portfolio/blob/main/power-bi/student-habits-academic-performance/notebook/student-habits-academic-performance.ipynb)
+- [Jupyter Notebook](https://github.com/DwikyXYudha/data-science-portfolio/blob/main/power-bi/student-habits-academic-performance/notebook/student-habits-academic-performance.ipynb)
 
 
 ## Dashboard Overview
