@@ -51,8 +51,14 @@ The dashboard is structured into two main interactive pages, designed for compre
 ### Page 1: Performance Overview
 - This page provides a high-level summary of student academic performance. It showcases key performance indicators (KPIs) and distributions, offering an initial understanding of the student body.
 
+![Page 1: Performance Overview](./assets/student-performance-dashboard-page-1.png)
+
+
 ## Page 2: Habit Correlation
 - This page performs a deeper dive into how specific student habits and lifestyle factors correlate with academic performance. It visualizes the relationships, helping to pinpoint influential factors.
+
+![Page 1: Performance Overview](./assets/student-performance-dashboard-page-2.png)
+
 
 
 ## Skills Demonstrated  
