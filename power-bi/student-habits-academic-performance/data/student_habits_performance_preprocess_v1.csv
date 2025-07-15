@@ -1,0 +1,1001 @@
+student_id;age;gender;study_hours_per_day;social_media_hours;netflix_hours;part_time_job;attendance_percentage;sleep_hours;diet_quality;exercise_frequency;parental_education_level;internet_quality;mental_health_rating;extracurricular_participation;exam_score;parental_education_level_order
+S1000;23;Female;0;1;1;No;85;8;Fair;6;Master;Average;8;Yes;56;3
+S1001;20;Female;7;3;2;No;97;5;Good;6;High School;Average;8;No;100;1
+S1002;21;Male;1;3;1;No;95;8;Poor;1;High School;Poor;1;No;34;1
+S1003;23;Female;1;4;1;No;71;9;Poor;4;Master;Good;1;Yes;27;3
+S1004;19;Female;5;4;0;No;91;5;Fair;3;Master;Good;1;No;66;3
+S1005;24;Male;7;1;0;No;83;7;Fair;1;Master;Average;4;No;100;3
+S1006;21;Female;6;2;1;Yes;86;6;Good;2;Master;Poor;4;No;90;3
+S1007;21;Female;4;1;2;Yes;78;5;Fair;0;Bachelor;Average;8;No;73;2
+S1008;23;Female;4;2;2;No;100;7;Good;3;Bachelor;Good;1;No;79;2
+S1009;18;Female;5;3;1;No;95;8;Good;5;Bachelor;Good;10;Yes;100;2
+S1010;19;Female;5;4;1;No;78;6;Fair;1;None;Good;3;No;63;0
+S1011;23;Male;4;2;2;No;72;8;Fair;2;Bachelor;Average;1;No;74;2
+S1012;19;Female;4;2;0;Yes;81;4;Fair;1;Bachelor;Good;9;No;77;2
+S1013;19;Female;3;3;3;No;89;5;Fair;4;Bachelor;Good;10;No;76;2
+S1014;24;Male;2;2;1;No;87;7;Poor;6;Bachelor;Average;9;No;79;2
+S1015;21;Male;3;5;1;No;98;6;Good;6;High School;Average;7;No;74;1
+S1016;20;Male;1;1;0;No;93;6;Poor;3;High School;Poor;8;Yes;55;1
+S1017;24;Female;3;3;1;No;95;8;Poor;0;High School;Average;1;Yes;71;1
+S1018;24;Other;2;5;3;Yes;88;7;Good;2;High School;Good;5;No;44;1
+S1019;19;Male;2;2;2;No;71;8;Fair;1;High School;Average;2;No;45;1
+S1020;22;Female;4;2;3;No;83;6;Good;3;Master;Good;1;No;58;3
+S1021;21;Male;6;2;2;No;96;7;Fair;1;High School;Good;3;No;82;1
+S1022;18;Other;5;2;1;No;84;6;Fair;3;High School;Average;7;No;99;1
+S1023;24;Female;1;4;1;Yes;90;9;Fair;6;Bachelor;Good;1;No;44;2
+S1024;20;Female;2;0;1;Yes;82;6;Fair;4;Bachelor;Average;2;No;55;2
+S1025;22;Male;5;4;3;No;75;9;Fair;1;High School;Average;2;Yes;70;1
+S1026;22;Male;2;1;0;No;84;6;Good;4;Bachelor;Poor;4;No;74;2
+S1027;18;Male;3;2;3;Yes;88;5;Fair;5;Bachelor;Average;3;No;71;2
+S1028;24;Male;4;2;3;Yes;78;8;Good;5;High School;Poor;3;Yes;83;1
+S1029;20;Female;2;3;4;Yes;83;7;Poor;6;High School;Poor;10;Yes;76;1
+S1030;21;Female;4;1;1;No;76;8;Fair;2;Master;Average;5;No;71;3
+S1031;17;Other;2;3;3;Yes;96;8;Fair;4;Bachelor;Average;3;Yes;51;2
+S1032;20;Other;3;5;4;No;82;7;Good;3;Bachelor;Good;7;No;52;2
+S1033;18;Female;4;1;1;No;100;6;Poor;2;None;Average;5;No;71;0
+S1034;22;Female;1;3;0;No;100;8;Fair;1;High School;Good;4;No;51;1
+S1035;21;Female;4;2;0;Yes;84;6;Good;1;Bachelor;Average;3;No;73;2
+S1036;20;Female;4;3;3;No;75;7;Fair;3;High School;Good;4;No;71;1
+S1037;17;Male;4;2;0;Yes;64;4;Good;0;High School;Average;2;No;59;1
+S1038;17;Male;4;2;1;No;70;7;Poor;0;Bachelor;Good;1;No;58;2
+S1039;19;Male;6;3;2;No;71;6;Good;1;High School;Average;3;No;82;1
+S1040;19;Female;4;5;2;No;99;8;Good;6;Bachelor;Good;2;No;70;2
+S1041;23;Female;3;2;2;No;86;7;Good;6;Bachelor;Average;1;No;66;2
+S1042;18;Male;4;3;2;No;89;7;Fair;3;High School;Poor;1;Yes;64;1
+S1043;24;Female;4;1;3;No;63;7;Poor;0;Bachelor;Good;2;No;66;2
+S1044;20;Female;4;1;1;No;73;5;Good;4;High School;Poor;9;No;78;1
+S1045;20;Male;4;3;1;No;94;8;Fair;1;Bachelor;Average;5;Yes;75;2
+S1046;24;Male;2;4;1;No;88;9;Poor;5;High School;Average;9;Yes;71;1
+S1047;23;Female;2;3;3;No;84;7;Good;4;None;Good;8;Yes;60;0
+S1048;22;Female;1;2;3;No;91;8;Fair;3;Bachelor;Good;6;No;53;2
+S1049;22;Female;6;2;2;No;100;6;Poor;5;High School;Average;1;No;96;1
+S1050;23;Female;2;1;3;No;83;6;Fair;4;Master;Good;10;Yes;62;3
+S1051;22;Female;2;3;0;No;86;6;Poor;0;High School;Average;5;No;60;1
+S1052;19;Female;2;4;4;No;87;7;Fair;6;High School;Average;1;No;48;1
+S1053;20;Female;5;2;4;No;100;6;Good;0;Bachelor;Good;7;Yes;71;2
+S1054;23;Female;3;2;3;Yes;64;7;Fair;5;High School;Good;10;No;68;1
+S1055;20;Male;5;3;4;No;92;7;Good;2;High School;Good;8;No;87;1
+S1056;24;Male;2;2;0;No;84;5;Good;6;Bachelor;Average;8;No;67;2
+S1057;17;Male;4;2;1;No;91;7;Good;1;Bachelor;Average;7;Yes;75;2
+S1058;19;Female;2;5;1;No;78;8;Poor;5;Master;Average;2;Yes;46;3
+S1059;21;Female;7;2;3;No;84;7;Good;3;Master;Average;5;Yes;97;3
+S1060;19;Female;2;2;1;Yes;92;8;Fair;1;High School;Average;4;No;61;1
+S1061;23;Male;4;2;3;No;100;5;Fair;4;Bachelor;Good;5;No;75;2
+S1062;21;Male;4;3;3;Yes;93;7;Good;6;High School;Good;10;No;95;1
+S1063;17;Male;4;2;3;Yes;76;5;Fair;3;Bachelor;Average;9;No;78;2
+S1064;23;Male;3;2;2;No;81;5;Good;3;High School;Poor;4;Yes;69;1
+S1065;18;Female;3;4;1;No;80;6;Poor;0;Master;Good;8;No;70;3
+S1066;20;Male;4;4;1;No;67;5;Good;4;Bachelor;Average;8;No;66;2
+S1067;17;Male;3;2;3;No;82;6;Poor;0;Master;Good;2;No;62;3
+S1068;20;Female;5;0;3;Yes;92;6;Good;0;Bachelor;Poor;6;No;82;2
+S1069;22;Male;7;4;2;No;72;8;Poor;6;Master;Average;5;No;100;3
+S1070;18;Female;3;2;1;No;96;6;Poor;2;Bachelor;Good;2;Yes;60;2
+S1071;18;Female;1;3;0;No;90;5;Fair;0;High School;Poor;10;Yes;55;1
+S1072;17;Male;3;0;1;No;78;8;Fair;1;High School;Average;4;Yes;77;1
+S1073;18;Female;7;4;4;No;84;6;Fair;3;High School;Average;7;Yes;98;1
+S1074;21;Female;2;1;0;No;100;6;Fair;6;None;Good;1;No;67;0
+S1075;18;Female;6;3;2;Yes;92;7;Fair;0;Bachelor;Good;9;Yes;100;2
+S1076;20;Male;6;2;3;No;85;7;Poor;5;Bachelor;Average;10;Yes;100;2
+S1077;20;Female;3;1;0;No;83;8;Fair;1;Bachelor;Poor;1;No;57;2
+S1078;23;Female;4;2;2;Yes;86;7;Good;4;Master;Good;5;No;77;3
+S1079;20;Male;6;3;3;Yes;80;6;Good;3;Master;Average;7;No;92;3
+S1080;23;Male;3;3;2;No;64;9;Good;6;High School;Good;8;No;71;1
+S1081;20;Other;3;3;5;No;100;7;Good;5;High School;Poor;2;No;58;1
+S1082;21;Female;3;5;0;Yes;87;6;Fair;6;High School;Poor;4;No;60;1
+S1083;24;Male;2;1;3;No;89;8;Poor;6;High School;Good;2;Yes;50;1
+S1084;23;Female;2;4;2;No;84;7;Fair;5;Bachelor;Average;4;No;51;2
+S1085;19;Male;2;3;3;No;78;7;Good;4;Bachelor;Good;6;No;54;2
+S1086;22;Male;4;1;2;No;83;10;Good;5;Bachelor;Poor;6;No;79;2
+S1087;17;Male;2;1;1;No;69;6;Fair;1;Master;Average;2;Yes;47;3
+S1088;20;Male;4;2;2;No;100;6;Poor;6;Bachelor;Good;4;No;73;2
+S1089;18;Male;1;4;0;No;73;7;Poor;4;High School;Average;4;Yes;41;1
+S1090;24;Male;4;2;2;No;75;8;Fair;6;Bachelor;Good;1;No;78;2
+S1091;20;Female;5;4;2;No;81;5;Fair;5;High School;Average;2;No;63;1
+S1092;18;Male;0;1;2;Yes;98;4;Poor;4;High School;Good;3;No;44;1
+S1093;22;Male;4;2;3;No;85;6;Good;4;None;Good;5;No;70;0
+S1094;22;Female;5;1;2;No;73;4;Fair;0;High School;Average;8;No;81;1
+S1095;22;Male;2;3;2;No;98;6;Good;0;High School;Good;6;No;50;1
+S1096;18;Female;6;4;1;No;92;7;Good;0;High School;Good;3;No;88;1
+S1097;20;Male;4;2;1;No;90;5;Good;5;Bachelor;Average;6;No;81;2
+S1098;22;Male;2;0;3;No;92;5;Good;3;Bachelor;Good;7;Yes;64;2
+S1099;21;Male;3;3;3;No;100;7;Good;1;High School;Good;6;No;66;1
+S1100;23;Male;4;3;2;No;100;8;Good;5;None;Average;10;Yes;93;0
+S1101;18;Male;4;3;2;No;78;4;Good;6;Bachelor;Average;6;No;74;2
+S1102;18;Male;4;4;1;No;100;8;Fair;0;None;Average;1;No;61;0
+S1103;20;Male;2;1;3;No;89;8;Good;4;Master;Average;3;No;50;3
+S1104;18;Male;4;3;2;No;90;8;Good;5;Bachelor;Good;7;No;74;2
+S1105;18;Male;1;4;4;Yes;68;8;Good;4;High School;Average;4;Yes;33;1
+S1106;22;Male;3;0;1;No;83;9;Good;6;High School;Good;4;Yes;82;1
+S1107;20;Male;2;3;1;No;77;6;Fair;4;None;Average;7;No;60;0
+S1108;22;Female;2;2;2;No;93;7;Poor;4;High School;Average;9;Yes;60;1
+S1109;23;Female;5;2;2;No;96;6;Fair;2;High School;Good;2;No;78;1
+S1110;24;Male;5;3;2;No;64;6;Fair;3;Bachelor;Average;9;Yes;86;2
+S1111;23;Female;4;2;1;No;85;8;Good;1;High School;Average;3;No;77;1
+S1112;24;Female;2;2;3;No;96;5;Fair;1;Bachelor;Poor;6;Yes;44;2
+S1113;22;Male;3;2;3;No;83;6;Fair;0;Bachelor;Average;4;No;51;2
+S1114;23;Female;5;1;1;No;92;8;Fair;2;High School;Average;1;No;83;1
+S1115;20;Female;4;1;3;No;88;8;Poor;5;None;Good;9;No;83;0
+S1116;17;Male;7;3;3;No;88;6;Good;5;None;Average;6;Yes;95;0
+S1117;22;Male;4;1;2;No;82;8;Good;1;None;Good;8;No;81;0
+S1118;24;Female;4;3;2;No;73;7;Poor;3;Bachelor;Good;2;Yes;58;2
+S1119;21;Female;3;3;2;Yes;74;8;Fair;4;High School;Average;7;No;66;1
+S1120;24;Male;4;0;1;No;92;7;Fair;6;Bachelor;Average;6;No;88;2
+S1121;21;Male;3;2;2;No;85;8;Poor;0;High School;Good;2;No;60;1
+S1122;18;Male;5;4;0;No;84;10;Poor;3;High School;Good;2;No;85;1
+S1123;23;Female;5;1;3;No;81;7;Good;1;Bachelor;Average;4;No;77;2
+S1124;21;Female;2;2;0;No;82;7;Fair;2;Bachelor;Average;4;No;62;2
+S1125;24;Male;2;3;4;No;96;7;Fair;0;High School;Average;3;No;44;1
+S1126;18;Male;1;3;1;Yes;82;6;Poor;1;High School;Poor;8;No;42;1
+S1127;17;Female;4;2;2;No;72;9;Good;5;Bachelor;Good;7;No;88;2
+S1128;20;Male;2;2;1;No;92;7;Good;0;High School;Good;2;No;49;1
+S1129;20;Male;0;4;2;No;83;6;Good;1;High School;Average;3;Yes;27;1
+S1130;20;Female;4;5;3;No;85;6;Poor;5;Bachelor;Good;10;No;82;2
+S1131;21;Female;7;4;0;No;100;8;Good;6;High School;Good;9;No;100;1
+S1132;17;Female;4;3;3;Yes;85;8;Fair;5;Bachelor;Average;5;Yes;74;2
+S1133;21;Female;5;2;2;No;88;6;Fair;4;Bachelor;Poor;2;Yes;78;2
+S1134;23;Male;4;2;0;No;73;7;Fair;2;Bachelor;Good;3;No;71;2
+S1135;21;Male;3;3;1;No;83;5;Fair;4;Bachelor;Good;8;No;74;2
+S1136;17;Female;5;3;4;No;91;7;Good;1;Bachelor;Good;4;No;68;2
+S1137;17;Male;3;4;1;No;69;7;Good;6;Bachelor;Poor;2;No;65;2
+S1138;23;Male;4;3;0;No;87;8;Fair;3;Master;Average;2;No;64;3
+S1139;17;Male;4;1;3;No;86;6;Good;6;High School;Poor;6;No;84;1
+S1140;24;Male;2;4;2;No;85;5;Good;6;High School;Good;8;No;63;1
+S1141;17;Male;5;1;1;No;95;5;Good;6;Bachelor;Good;7;No;96;2
+S1142;20;Male;3;2;2;No;88;5;Fair;4;Bachelor;Poor;4;Yes;65;2
+S1143;24;Male;2;3;1;No;100;8;Fair;3;None;Good;2;No;62;0
+S1144;24;Male;4;5;3;No;75;8;Fair;5;Master;Good;9;Yes;74;3
+S1145;23;Female;2;6;3;No;86;7;Good;1;None;Good;4;No;47;0
+S1146;19;Female;4;3;2;No;86;8;Poor;2;Bachelor;Good;9;No;76;2
+S1147;19;Female;4;2;2;No;74;7;Fair;3;Bachelor;Poor;5;Yes;78;2
+S1148;17;Female;5;3;4;No;95;6;Fair;1;Master;Good;7;No;85;3
+S1149;24;Female;4;4;2;Yes;100;6;Fair;3;None;Poor;5;No;75;0
+S1150;19;Male;4;2;0;Yes;85;6;Good;4;Bachelor;Average;2;No;64;2
+S1151;19;Female;5;5;2;No;90;5;Good;1;High School;Good;6;No;70;1
+S1152;17;Female;6;3;4;No;86;7;Good;4;High School;Good;7;No;90;1
+S1153;19;Female;4;3;1;No;78;6;Good;0;None;Average;6;No;81;0
+S1154;21;Male;4;3;1;No;67;7;Fair;1;Bachelor;Good;3;No;65;2
+S1155;18;Male;2;3;2;No;78;7;Fair;3;High School;Good;10;No;57;1
+S1156;23;Male;2;4;2;Yes;71;6;Fair;0;High School;Good;8;No;58;1
+S1157;18;Male;3;2;1;No;100;6;Poor;4;Bachelor;Poor;3;No;57;2
+S1158;17;Female;3;2;3;No;84;7;Fair;4;Bachelor;Good;5;Yes;62;2
+S1159;20;Female;3;1;4;No;82;7;Good;3;Bachelor;Average;9;No;78;2
+S1160;23;Male;4;3;2;No;94;5;Fair;0;Master;Average;5;No;65;3
+S1161;17;Other;4;3;1;No;74;7;Good;6;High School;Average;7;No;77;1
+S1162;24;Female;3;3;0;No;77;7;Fair;5;Master;Average;7;No;84;3
+S1163;20;Male;4;4;2;No;86;6;Poor;2;Master;Good;5;No;71;3
+S1164;18;Male;4;2;3;No;95;6;Poor;3;High School;Average;2;Yes;63;1
+S1165;17;Male;0;3;2;No;90;7;Fair;4;High School;Good;5;No;39;1
+S1166;24;Male;2;1;2;No;88;5;Fair;1;High School;Average;7;No;67;1
+S1167;23;Male;3;2;1;Yes;86;7;Poor;0;High School;Good;7;No;72;1
+S1168;23;Male;2;3;1;No;89;5;Fair;5;Bachelor;Good;4;Yes;50;2
+S1169;22;Male;4;4;3;Yes;87;8;Fair;2;Bachelor;Good;1;No;62;2
+S1170;24;Male;6;2;3;No;75;9;Fair;1;Bachelor;Good;6;No;97;2
+S1171;21;Female;5;2;0;No;86;6;Good;0;Bachelor;Good;3;Yes;86;2
+S1172;19;Male;3;1;4;No;74;7;Good;5;High School;Good;5;No;68;1
+S1173;20;Female;6;2;2;No;86;6;Fair;3;Master;Good;4;Yes;84;3
+S1174;24;Male;4;4;3;Yes;80;8;Good;5;High School;Poor;2;No;69;1
+S1175;22;Other;3;3;0;No;100;5;Good;3;Master;Good;7;No;65;3
+S1176;19;Male;3;3;0;No;85;7;Good;6;High School;Average;5;Yes;78;1
+S1177;19;Male;3;3;2;No;71;6;Fair;0;Master;Average;7;Yes;55;3
+S1178;17;Other;3;2;2;Yes;84;6;Poor;5;None;Good;9;No;65;0
+S1179;19;Female;4;2;4;No;90;5;Good;2;High School;Average;4;No;58;1
+S1180;21;Female;4;3;3;Yes;100;8;Fair;5;None;Good;5;No;69;0
+S1181;23;Male;4;3;2;Yes;79;6;Good;0;Bachelor;Average;9;No;67;2
+S1182;22;Male;4;3;1;No;69;7;Good;1;Master;Poor;10;No;80;3
+S1183;19;Female;5;2;3;No;93;6;Fair;1;High School;Average;4;Yes;86;1
+S1184;17;Female;5;0;1;No;71;6;Fair;5;Master;Poor;5;No;96;3
+S1185;21;Female;1;4;4;Yes;81;7;Fair;5;Bachelor;Good;5;No;40;2
+S1186;18;Female;0;2;2;No;82;6;Fair;3;Bachelor;Average;8;No;55;2
+S1187;23;Male;5;2;4;No;84;7;Fair;0;Bachelor;Average;4;No;74;2
+S1188;23;Female;1;3;2;No;92;8;Fair;3;High School;Poor;4;Yes;46;1
+S1189;22;Male;3;2;2;No;78;6;Fair;2;High School;Average;7;Yes;60;1
+S1190;23;Male;2;4;1;No;82;8;Poor;6;Master;Good;5;No;55;3
+S1191;19;Male;1;3;1;No;85;8;Good;1;Master;Average;6;No;45;3
+S1192;17;Female;4;3;2;No;86;6;Poor;4;Master;Good;6;No;69;3
+S1193;23;Male;5;1;2;No;86;5;Good;4;Master;Good;6;No;81;3
+S1194;23;Male;3;4;1;No;89;7;Good;0;High School;Good;10;No;67;1
+S1195;18;Female;0;3;2;No;93;6;Fair;0;Bachelor;Good;5;No;27;2
+S1196;18;Male;3;2;2;No;89;9;Good;4;High School;Poor;5;No;64;1
+S1197;20;Female;4;3;0;No;90;6;Fair;0;Master;Average;9;Yes;87;3
+S1198;21;Male;1;0;2;Yes;69;6;Good;1;High School;Good;8;Yes;42;1
+S1199;19;Female;4;3;1;No;86;5;Fair;2;Bachelor;Good;4;No;62;2
+S1200;23;Female;4;1;0;No;90;8;Fair;2;Bachelor;Good;7;No;82;2
+S1201;24;Male;4;1;0;No;92;6;Fair;3;High School;Good;8;No;96;1
+S1202;23;Male;4;1;0;No;78;7;Fair;1;None;Average;9;No;85;0
+S1203;17;Male;2;4;0;No;78;8;Fair;6;Master;Poor;5;No;58;3
+S1204;20;Male;5;2;1;No;79;6;Fair;0;Bachelor;Good;3;Yes;78;2
+S1205;21;Other;3;4;4;No;90;6;Fair;0;High School;Good;4;No;56;1
+S1206;24;Male;4;2;1;No;95;6;Poor;6;Bachelor;Average;10;Yes;93;2
+S1207;20;Female;2;0;2;No;81;7;Poor;3;Bachelor;Good;6;Yes;62;2
+S1208;22;Male;3;1;2;Yes;94;7;Fair;3;High School;Average;10;No;76;1
+S1209;21;Female;2;4;2;No;86;6;Poor;0;High School;Average;5;Yes;47;1
+S1210;23;Female;3;2;2;Yes;84;7;Poor;0;Master;Good;9;No;66;3
+S1211;23;Female;6;2;0;No;83;6;Good;6;Bachelor;Good;3;Yes;98;2
+S1212;21;Male;1;3;3;No;92;5;Poor;1;Bachelor;Average;2;Yes;30;2
+S1213;23;Male;1;3;4;No;88;7;Good;6;Bachelor;Poor;6;No;46;2
+S1214;19;Male;6;4;0;No;100;9;Fair;3;None;Average;7;No;100;0
+S1215;21;Female;3;4;1;No;76;5;Good;6;High School;Good;5;Yes;68;1
+S1216;20;Female;2;2;2;No;90;6;Fair;6;High School;Average;1;Yes;60;1
+S1217;21;Other;5;1;1;No;80;6;Fair;6;High School;Good;3;No;87;1
+S1218;24;Male;3;2;2;No;76;7;Fair;1;Bachelor;Good;3;No;48;2
+S1219;23;Female;6;3;1;No;85;7;Fair;5;Master;Good;4;No;100;3
+S1220;19;Female;4;1;4;No;86;6;Fair;0;High School;Average;10;No;82;1
+S1221;19;Male;3;1;3;No;100;5;Poor;4;High School;Good;6;Yes;64;1
+S1222;22;Male;7;3;2;No;83;7;Good;6;Bachelor;Average;5;No;100;2
+S1223;20;Female;3;2;3;No;74;5;Fair;4;Master;Average;1;No;42;3
+S1224;18;Female;5;2;3;No;88;7;Fair;5;Bachelor;Poor;6;No;73;2
+S1225;18;Female;4;2;1;No;64;8;Good;0;Master;Average;9;Yes;74;3
+S1226;21;Male;6;2;1;Yes;84;5;Fair;3;Bachelor;Good;1;No;89;2
+S1227;22;Female;6;1;2;No;85;5;Good;4;Bachelor;Average;8;Yes;97;2
+S1228;17;Male;4;4;3;No;93;8;Fair;3;High School;Average;8;Yes;73;1
+S1229;21;Male;2;4;2;No;95;6;Good;4;High School;Good;3;Yes;52;1
+S1230;22;Male;4;0;0;No;80;8;Poor;3;High School;Poor;9;Yes;100;1
+S1231;20;Female;2;1;1;No;84;6;Good;6;Bachelor;Good;8;No;73;2
+S1232;20;Female;6;1;2;No;77;6;Good;4;Master;Average;3;No;100;3
+S1233;20;Female;4;2;2;No;74;7;Fair;3;Master;Poor;10;Yes;81;3
+S1234;20;Male;3;2;4;No;88;5;Poor;5;High School;Good;5;No;63;1
+S1235;20;Female;4;1;0;No;72;7;Fair;1;High School;Poor;3;No;72;1
+S1236;22;Male;2;1;2;No;81;6;Good;3;High School;Good;5;No;46;1
+S1237;22;Female;2;1;3;Yes;75;5;Fair;1;High School;Average;9;No;54;1
+S1238;19;Male;5;3;4;No;90;7;Fair;1;Bachelor;Poor;4;Yes;74;2
+S1239;24;Male;2;3;1;No;100;6;Poor;0;Master;Poor;6;No;52;3
+S1240;18;Male;2;2;2;No;72;6;Fair;6;Master;Poor;3;No;51;3
+S1241;23;Male;4;3;2;Yes;66;5;Fair;5;Bachelor;Poor;3;No;61;2
+S1242;20;Female;5;2;2;No;84;8;Good;1;Bachelor;Good;5;No;92;2
+S1243;17;Female;5;2;2;No;85;8;Fair;2;Bachelor;Average;8;No;87;2
+S1244;23;Male;5;4;2;No;87;8;Good;6;High School;Average;8;No;98;1
+S1245;22;Female;2;4;0;No;80;6;Fair;1;Bachelor;Average;3;Yes;48;2
+S1246;17;Male;1;1;3;Yes;83;4;Poor;3;Bachelor;Good;8;No;51;2
+S1247;17;Female;6;4;2;No;89;9;Fair;1;Bachelor;Good;8;Yes;90;2
+S1248;17;Female;3;4;2;No;95;6;Fair;3;High School;Good;3;No;54;1
+S1249;19;Female;3;1;4;No;65;6;Good;3;High School;Good;10;Yes;58;1
+S1250;22;Male;6;4;1;Yes;81;7;Good;2;High School;Average;10;No;100;1
+S1251;17;Female;4;4;1;No;87;8;Fair;1;Master;Average;2;No;65;3
+S1252;20;Female;4;1;4;No;76;6;Fair;1;High School;Good;10;No;85;1
+S1253;21;Male;7;1;1;No;100;8;Fair;4;Bachelor;Good;2;No;94;2
+S1254;17;Male;2;4;1;Yes;79;8;Good;6;Bachelor;Average;9;No;79;2
+S1255;19;Female;5;3;2;No;85;5;Good;4;High School;Average;7;No;85;1
+S1256;23;Female;4;3;3;No;91;6;Good;0;Bachelor;Good;6;No;64;2
+S1257;22;Female;4;3;2;No;79;8;Fair;3;Master;Good;7;No;71;3
+S1258;24;Female;6;3;0;No;66;3;Fair;2;High School;Average;8;No;91;1
+S1259;19;Female;4;1;1;No;81;6;Fair;4;Master;Good;1;No;73;3
+S1260;17;Male;4;4;1;No;95;5;Fair;1;High School;Average;8;No;71;1
+S1261;22;Male;5;4;2;Yes;82;6;Fair;0;None;Poor;3;Yes;65;0
+S1262;21;Male;3;2;2;No;76;6;Poor;2;Master;Average;3;No;49;3
+S1263;17;Female;2;2;2;Yes;94;6;Poor;5;Bachelor;Average;6;No;63;2
+S1264;19;Male;2;1;0;No;82;6;Good;1;Master;Poor;4;No;52;3
+S1265;18;Female;1;3;3;No;80;5;Good;1;Bachelor;Good;4;No;18;2
+S1266;20;Female;7;3;2;No;86;9;Fair;5;Master;Average;4;Yes;100;3
+S1267;24;Female;2;2;3;Yes;93;9;Fair;3;Bachelor;Good;10;No;53;2
+S1268;23;Male;3;4;2;No;100;5;Fair;3;Bachelor;Poor;9;No;76;2
+S1269;19;Female;3;2;3;No;93;8;Good;4;Bachelor;Average;8;No;86;2
+S1270;22;Male;4;3;2;Yes;97;6;Good;4;High School;Good;3;Yes;63;1
+S1271;24;Female;5;1;3;Yes;80;7;Good;1;Master;Good;1;No;74;3
+S1272;24;Male;5;2;2;Yes;75;6;Good;6;High School;Good;1;No;76;1
+S1273;24;Male;3;2;2;No;86;6;Fair;1;Bachelor;Good;1;Yes;46;2
+S1274;17;Female;3;3;4;No;86;8;Fair;4;High School;Average;4;Yes;59;1
+S1275;20;Male;4;2;3;No;74;7;Fair;5;Bachelor;Average;6;No;78;2
+S1276;17;Male;3;2;2;Yes;83;6;Fair;4;High School;Good;4;Yes;62;1
+S1277;22;Female;6;4;0;No;89;5;Good;1;None;Good;3;No;71;0
+S1278;17;Female;4;2;0;No;89;5;Fair;2;Master;Good;8;Yes;94;3
+S1279;18;Female;5;1;2;No;90;4;Poor;1;High School;Good;8;No;86;1
+S1280;20;Female;4;5;2;No;88;6;Fair;2;Bachelor;Good;6;No;74;2
+S1281;20;Female;5;4;1;Yes;80;5;Good;2;High School;Average;9;No;83;1
+S1282;22;Male;4;1;2;Yes;80;6;Fair;1;None;Good;10;No;80;0
+S1283;23;Male;2;3;4;Yes;73;8;Good;6;High School;Good;1;No;47;1
+S1284;18;Male;4;2;3;No;100;8;Fair;6;Bachelor;Good;8;No;92;2
+S1285;19;Female;2;3;0;Yes;85;6;Poor;0;None;Poor;6;Yes;61;0
+S1286;17;Female;3;3;2;No;83;6;Fair;4;Master;Average;1;No;47;3
+S1287;21;Male;4;2;1;No;76;9;Good;6;High School;Poor;4;Yes;84;1
+S1288;17;Male;5;2;1;No;100;7;Fair;3;High School;Average;5;No;96;1
+S1289;24;Female;4;2;1;No;74;6;Good;1;High School;Good;7;Yes;74;1
+S1290;17;Male;4;1;1;No;81;5;Fair;2;None;Poor;8;No;76;0
+S1291;19;Female;6;2;0;No;89;7;Poor;1;Bachelor;Average;9;No;100;2
+S1292;17;Female;4;2;2;Yes;91;8;Good;4;Master;Average;6;Yes;74;3
+S1293;18;Female;7;2;1;No;95;6;Fair;5;Bachelor;Good;10;Yes;100;2
+S1294;18;Male;4;3;0;No;100;7;Fair;6;High School;Average;9;No;95;1
+S1295;20;Female;1;4;4;No;90;6;Good;6;High School;Average;4;No;28;1
+S1296;22;Female;5;2;3;No;74;6;Fair;6;High School;Average;8;No;86;1
+S1297;23;Female;4;3;1;No;82;4;Good;2;Master;Average;3;No;60;3
+S1298;21;Female;5;3;2;No;88;6;Poor;3;High School;Average;4;Yes;91;1
+S1299;24;Female;4;3;0;No;100;8;Fair;3;Bachelor;Average;10;No;94;2
+S1300;17;Female;3;3;4;No;71;6;Poor;6;High School;Good;4;Yes;62;1
+S1301;17;Male;2;3;4;Yes;97;7;Good;3;High School;Average;6;No;42;1
+S1302;19;Female;3;3;2;No;87;6;Fair;5;High School;Poor;9;No;74;1
+S1303;22;Female;2;1;3;No;93;7;Good;6;None;Good;6;No;64;0
+S1304;18;Male;3;4;2;No;84;6;Good;0;Bachelor;Average;1;No;40;2
+S1305;21;Female;4;4;0;No;77;5;Fair;2;High School;Good;5;Yes;88;1
+S1306;20;Female;6;2;1;No;92;8;Fair;5;Bachelor;Average;9;No;100;2
+S1307;18;Female;4;2;2;Yes;92;8;Fair;2;None;Good;5;No;75;0
+S1308;24;Male;2;3;1;No;95;6;Fair;6;Master;Good;6;Yes;62;3
+S1309;22;Male;4;2;2;No;85;7;Fair;5;High School;Good;3;Yes;73;1
+S1310;24;Other;5;4;2;No;79;7;Good;6;Master;Average;8;No;96;3
+S1311;23;Female;3;5;2;Yes;69;7;Good;5;Bachelor;Average;10;No;67;2
+S1312;20;Male;3;2;2;No;93;4;Good;6;Master;Average;4;No;70;3
+S1313;23;Female;4;1;1;No;89;8;Good;0;High School;Good;4;No;84;1
+S1314;19;Female;2;3;1;No;75;6;Good;2;Bachelor;Good;5;Yes;49;2
+S1315;24;Female;4;3;0;No;80;6;Fair;5;High School;Poor;10;No;99;1
+S1316;19;Female;3;2;3;Yes;80;10;Good;0;High School;Poor;9;No;76;1
+S1317;17;Male;4;4;0;No;70;7;Good;1;High School;Average;8;Yes;80;1
+S1318;23;Male;2;1;3;No;77;6;Fair;6;High School;Poor;7;No;64;1
+S1319;22;Male;3;3;3;No;74;4;Good;4;Master;Average;5;Yes;59;3
+S1320;24;Female;5;2;2;No;81;8;Fair;5;None;Poor;9;Yes;94;0
+S1321;21;Male;3;5;0;Yes;78;5;Good;3;Bachelor;Good;9;Yes;68;2
+S1322;20;Male;6;5;1;No;69;5;Good;0;Bachelor;Good;10;No;96;2
+S1323;18;Male;3;2;2;No;100;6;Good;0;Bachelor;Good;10;No;70;2
+S1324;22;Female;4;2;1;No;98;8;Fair;5;Bachelor;Average;2;No;84;2
+S1325;22;Female;5;4;1;No;77;7;Good;0;High School;Good;4;No;75;1
+S1326;19;Male;1;2;4;No;88;6;Fair;1;Bachelor;Good;8;No;42;2
+S1327;23;Male;1;2;2;No;89;7;Fair;0;High School;Poor;1;No;23;1
+S1328;24;Female;1;2;1;Yes;97;6;Good;4;Master;Good;5;No;50;3
+S1329;24;Male;5;0;0;No;77;7;Fair;4;Bachelor;Average;8;No;100;2
+S1330;17;Male;3;2;1;No;96;7;Good;6;Master;Average;2;No;52;3
+S1331;17;Male;7;2;2;No;80;8;Fair;6;None;Average;2;Yes;100;0
+S1332;20;Male;3;2;2;No;72;8;Fair;3;High School;Poor;8;No;71;1
+S1333;19;Male;4;4;1;No;92;7;Good;1;High School;Good;10;No;72;1
+S1334;22;Female;6;1;2;No;98;6;Fair;4;None;Average;9;No;100;0
+S1335;24;Male;6;4;4;No;100;7;Poor;5;High School;Average;7;Yes;100;1
+S1336;21;Female;7;2;3;No;73;6;Good;2;Bachelor;Poor;8;Yes;100;2
+S1337;19;Male;5;2;2;No;92;5;Fair;2;High School;Good;5;No;93;1
+S1338;20;Female;5;3;2;Yes;81;6;Good;2;Bachelor;Average;1;Yes;68;2
+S1339;20;Female;4;3;1;No;93;7;Fair;6;Master;Good;4;Yes;78;3
+S1340;19;Male;5;3;3;Yes;70;8;Fair;5;Bachelor;Good;2;No;80;2
+S1341;20;Female;3;4;1;No;72;6;Fair;0;High School;Average;3;No;44;1
+S1342;19;Male;2;2;2;No;77;5;Fair;5;High School;Average;3;No;55;1
+S1343;18;Other;4;2;2;No;86;7;Fair;0;High School;Good;9;No;85;1
+S1344;19;Male;3;1;1;No;79;7;Fair;2;High School;Poor;10;Yes;82;1
+S1345;23;Male;3;2;0;No;92;7;Fair;3;Bachelor;Poor;4;No;72;2
+S1346;19;Male;4;6;2;Yes;95;8;Poor;3;High School;Good;2;Yes;74;1
+S1347;20;Other;5;4;2;No;91;8;Fair;0;Master;Average;3;No;77;3
+S1348;24;Female;4;1;2;No;100;6;Poor;2;Bachelor;Average;3;No;72;2
+S1349;23;Female;6;1;1;No;89;6;Poor;5;Bachelor;Average;7;No;100;2
+S1350;20;Male;2;3;3;No;73;5;Good;3;High School;Average;8;No;54;1
+S1351;17;Female;3;3;1;No;99;7;Good;0;High School;Good;6;No;70;1
+S1352;17;Male;2;3;4;No;79;8;Good;5;Bachelor;Good;4;Yes;47;2
+S1353;24;Female;1;2;0;No;94;6;Fair;2;High School;Good;6;No;49;1
+S1354;24;Male;3;2;2;No;100;6;Good;1;High School;Good;1;No;48;1
+S1355;23;Male;3;3;2;Yes;90;8;Good;2;High School;Average;10;No;81;1
+S1356;18;Male;6;3;1;Yes;70;7;Good;6;High School;Average;8;No;100;1
+S1357;24;Male;4;0;2;No;76;7;Fair;2;Bachelor;Average;1;No;82;2
+S1358;17;Female;2;2;3;No;98;5;Good;5;High School;Average;5;No;56;1
+S1359;19;Male;6;2;0;No;83;7;Good;5;Bachelor;Good;2;Yes;100;2
+S1360;20;Female;5;3;2;Yes;86;5;Good;4;High School;Good;6;No;81;1
+S1361;17;Male;4;6;0;No;93;5;Poor;4;Bachelor;Average;9;Yes;85;2
+S1362;17;Female;3;3;1;No;92;6;Fair;5;Master;Poor;5;No;68;3
+S1363;18;Male;2;2;4;No;88;6;Fair;5;Master;Poor;4;No;57;3
+S1364;23;Male;3;4;1;No;83;6;Fair;1;High School;Average;2;No;46;1
+S1365;23;Female;5;3;0;Yes;82;5;Good;1;None;Poor;3;No;76;0
+S1366;22;Male;6;3;2;No;94;8;Poor;2;High School;Average;6;Yes;95;1
+S1367;18;Male;6;3;4;No;90;8;Poor;6;Bachelor;Good;8;No;99;2
+S1368;19;Female;3;5;0;Yes;82;4;Fair;3;Bachelor;Good;8;No;71;2
+S1369;23;Female;2;1;1;Yes;96;8;Poor;6;Bachelor;Average;5;No;71;2
+S1370;20;Male;4;3;3;Yes;84;6;Fair;1;High School;Average;5;Yes;60;1
+S1371;24;Male;1;1;4;Yes;76;8;Good;2;Bachelor;Average;10;No;36;2
+S1372;18;Female;4;3;2;No;77;6;Fair;6;High School;Good;3;No;68;1
+S1373;24;Male;3;1;0;No;75;6;Poor;0;Bachelor;Good;7;Yes;73;2
+S1374;17;Male;3;2;4;Yes;82;6;Fair;4;High School;Good;6;No;57;1
+S1375;20;Male;1;2;4;Yes;97;8;Fair;6;Bachelor;Average;1;Yes;50;2
+S1376;20;Female;4;4;2;No;77;5;Poor;3;None;Good;4;No;66;0
+S1377;17;Female;3;4;1;No;87;7;Good;2;High School;Poor;6;Yes;68;1
+S1378;18;Male;2;1;2;No;78;8;Good;6;Bachelor;Good;6;No;64;2
+S1379;17;Male;0;3;2;No;82;7;Good;5;High School;Average;3;No;33;1
+S1380;24;Male;4;2;2;No;70;9;Good;0;Bachelor;Average;6;No;68;2
+S1381;22;Female;6;1;3;No;83;6;Poor;4;Bachelor;Good;10;No;100;2
+S1382;20;Male;6;2;3;Yes;83;8;Good;0;Bachelor;Average;6;No;97;2
+S1383;21;Male;3;2;1;No;90;6;Good;2;High School;Poor;9;Yes;71;1
+S1384;21;Female;3;5;3;No;87;8;Good;1;High School;Poor;9;No;60;1
+S1385;24;Male;4;3;2;No;73;6;Poor;4;Bachelor;Poor;2;No;64;2
+S1386;19;Female;2;1;3;No;96;6;Good;0;High School;Poor;4;No;45;1
+S1387;23;Male;4;2;3;No;87;8;Good;1;Bachelor;Poor;9;Yes;83;2
+S1388;17;Male;5;4;1;No;87;6;Good;3;High School;Average;4;Yes;73;1
+S1389;17;Male;5;5;2;No;85;5;Poor;2;High School;Average;8;No;80;1
+S1390;19;Female;3;1;1;Yes;80;6;Good;2;High School;Good;10;No;73;1
+S1391;19;Female;3;0;0;Yes;87;7;Good;4;None;Average;3;No;73;0
+S1392;24;Female;2;5;2;No;90;8;Good;0;High School;Poor;3;No;45;1
+S1393;24;Male;2;3;5;No;68;7;Fair;3;Bachelor;Average;9;No;52;2
+S1394;19;Female;3;2;0;No;80;8;Good;5;Bachelor;Good;10;No;92;2
+S1395;20;Male;4;3;2;No;82;5;Fair;4;High School;Good;8;No;78;1
+S1396;24;Male;5;0;2;Yes;88;6;Fair;5;Master;Average;1;No;97;3
+S1397;22;Female;2;2;2;Yes;97;6;Fair;4;Bachelor;Good;10;Yes;72;2
+S1398;24;Male;6;3;2;No;77;6;Good;0;Master;Good;2;Yes;69;3
+S1399;17;Male;3;4;0;No;80;7;Poor;3;Bachelor;Good;3;Yes;60;2
+S1400;24;Male;4;1;2;No;80;7;Fair;0;Bachelor;Good;2;No;60;2
+S1401;20;Male;2;3;1;No;77;6;Good;2;None;Good;3;Yes;48;0
+S1402;19;Male;0;1;0;No;82;7;Good;5;High School;Good;8;Yes;50;1
+S1403;17;Female;5;3;3;No;93;6;Fair;1;None;Good;6;No;75;0
+S1404;24;Male;5;1;3;Yes;74;5;Good;6;Bachelor;Average;7;Yes;86;2
+S1405;20;Female;3;2;2;No;89;6;Good;2;High School;Good;10;Yes;65;1
+S1406;22;Female;4;1;2;No;68;6;Poor;2;Bachelor;Good;10;Yes;82;2
+S1407;24;Male;4;3;3;No;79;6;Fair;5;High School;Poor;6;Yes;67;1
+S1408;20;Male;1;4;2;No;82;6;Poor;4;Bachelor;Good;1;No;34;2
+S1409;22;Male;3;2;3;No;100;7;Fair;2;High School;Average;3;No;53;1
+S1410;19;Female;5;2;2;No;82;6;Fair;6;High School;Average;1;No;78;1
+S1411;24;Male;2;1;3;Yes;63;8;Good;3;High School;Good;10;No;58;1
+S1412;22;Female;4;2;2;No;65;5;Good;2;High School;Average;9;No;74;1
+S1413;17;Male;2;2;2;Yes;85;6;Poor;3;High School;Average;9;No;60;1
+S1414;19;Female;4;6;0;No;91;10;Poor;0;Bachelor;Poor;5;Yes;79;2
+S1415;17;Male;3;1;2;Yes;89;5;Fair;4;None;Average;4;Yes;68;0
+S1416;21;Male;1;4;1;No;87;5;Fair;3;High School;Average;9;No;50;1
+S1417;18;Female;5;4;1;No;97;7;Fair;2;Bachelor;Average;9;Yes;100;2
+S1418;24;Female;2;3;1;No;80;4;Good;4;None;Average;3;Yes;55;0
+S1419;22;Male;2;5;1;No;94;6;Good;6;Master;Good;5;No;59;3
+S1420;18;Female;4;3;4;Yes;69;9;Fair;4;Master;Good;3;No;71;3
+S1421;18;Female;5;3;3;No;76;5;Good;3;None;Poor;10;Yes;87;0
+S1422;22;Female;2;2;4;No;67;4;Fair;3;High School;Good;2;Yes;30;1
+S1423;19;Female;4;4;0;No;82;5;Good;1;High School;Poor;1;No;53;1
+S1424;24;Male;4;4;2;Yes;84;8;Fair;1;Bachelor;Poor;10;No;73;2
+S1425;21;Male;4;2;0;No;86;8;Poor;4;Bachelor;Poor;2;Yes;71;2
+S1426;17;Male;4;1;1;No;86;6;Good;5;Bachelor;Good;8;No;81;2
+S1427;20;Female;3;2;1;Yes;76;7;Fair;5;Bachelor;Good;8;No;75;2
+S1428;17;Female;2;2;3;No;83;8;Good;1;High School;Average;3;No;52;1
+S1429;20;Male;4;2;1;No;70;9;Fair;2;Bachelor;Average;7;No;68;2
+S1430;17;Male;2;4;3;No;99;6;Poor;0;Bachelor;Average;7;Yes;36;2
+S1431;22;Female;0;2;2;No;82;4;Poor;4;Bachelor;Average;2;No;30;2
+S1432;21;Other;4;2;4;No;80;6;Fair;0;Master;Good;9;No;71;3
+S1433;24;Female;5;3;0;No;100;6;Good;1;Bachelor;Average;3;Yes;89;2
+S1434;20;Male;0;4;3;No;73;6;Fair;3;High School;Good;2;No;26;1
+S1435;24;Male;2;0;3;No;74;6;Good;6;High School;Average;3;Yes;58;1
+S1436;24;Male;4;2;1;No;74;8;Good;4;High School;Good;2;Yes;78;1
+S1437;24;Female;7;3;3;No;84;8;Good;1;None;Good;8;No;100;0
+S1438;23;Male;4;4;2;No;89;6;Fair;2;Master;Average;5;Yes;67;3
+S1439;19;Female;2;2;2;No;92;8;Good;6;High School;Good;3;No;64;1
+S1440;17;Male;3;0;1;No;100;7;Fair;4;Bachelor;Good;5;No;76;2
+S1441;24;Female;6;3;1;No;62;7;Fair;4;Bachelor;Average;8;No;83;2
+S1442;17;Female;2;2;4;No;91;8;Poor;5;None;Average;7;No;65;0
+S1443;24;Female;2;1;2;Yes;79;7;Fair;3;Master;Good;6;No;67;3
+S1444;20;Male;3;2;3;No;79;9;Poor;4;Master;Average;1;Yes;65;3
+S1445;19;Male;2;2;1;No;79;5;Good;3;Bachelor;Poor;10;No;63;2
+S1446;19;Male;4;2;1;Yes;76;6;Fair;1;High School;Average;1;No;56;1
+S1447;22;Female;6;0;3;No;100;6;Fair;2;High School;Good;1;Yes;94;1
+S1448;23;Female;4;4;0;No;93;7;Good;6;High School;Good;10;Yes;92;1
+S1449;22;Female;3;4;1;No;85;8;Fair;6;High School;Good;8;Yes;74;1
+S1450;22;Female;3;3;2;No;98;6;Fair;2;Bachelor;Average;8;No;63;2
+S1451;22;Female;1;1;2;No;70;5;Poor;4;Master;Poor;7;No;59;3
+S1452;22;Male;5;2;2;Yes;72;8;Good;4;Bachelor;Good;6;No;89;2
+S1453;22;Female;3;2;2;No;63;7;Poor;1;Master;Good;4;No;63;3
+S1454;21;Male;3;3;3;Yes;78;4;Fair;5;Bachelor;Poor;1;No;47;2
+S1455;19;Male;8;3;3;Yes;87;6;Fair;5;High School;Average;9;No;100;1
+S1456;22;Female;4;2;1;Yes;86;5;Good;5;Master;Poor;1;No;69;3
+S1457;24;Male;2;3;2;No;86;6;Good;3;High School;Good;4;No;59;1
+S1458;19;Male;3;3;3;No;71;5;Good;5;Master;Good;3;No;59;3
+S1459;19;Female;5;4;3;Yes;93;8;Poor;2;High School;Good;7;No;78;1
+S1460;18;Male;4;3;0;Yes;87;7;Fair;6;High School;Good;5;No;72;1
+S1461;21;Female;1;3;2;No;92;5;Fair;6;Master;Poor;5;No;50;3
+S1462;22;Male;5;3;0;Yes;66;8;Poor;3;Bachelor;Good;4;No;81;2
+S1463;17;Male;2;4;2;Yes;88;5;Fair;1;Master;Good;1;No;44;3
+S1464;20;Male;6;3;4;Yes;73;7;Fair;2;Master;Average;5;No;85;3
+S1465;23;Male;5;2;1;No;81;6;Fair;6;None;Good;4;No;83;0
+S1466;24;Female;3;4;1;No;90;6;Good;2;Bachelor;Average;10;No;60;2
+S1467;17;Male;5;3;3;No;86;7;Fair;6;High School;Good;8;No;98;1
+S1468;21;Female;4;2;0;No;76;7;Good;0;Bachelor;Good;2;Yes;67;2
+S1469;20;Male;5;2;1;No;85;8;Fair;1;Bachelor;Good;8;Yes;96;2
+S1470;21;Female;4;3;2;No;70;6;Fair;1;High School;Good;1;No;60;1
+S1471;24;Female;2;3;1;No;96;7;Fair;0;Bachelor;Poor;4;No;34;2
+S1472;19;Female;2;3;2;No;83;6;Poor;3;Bachelor;Average;3;No;56;2
+S1473;20;Male;5;3;3;No;96;7;Poor;6;High School;Average;5;No;81;1
+S1474;19;Male;3;4;2;Yes;80;7;Fair;6;Bachelor;Good;5;No;53;2
+S1475;24;Male;3;4;2;No;80;6;Good;6;Bachelor;Good;5;Yes;52;2
+S1476;17;Female;2;3;1;No;77;4;Good;5;Master;Good;4;Yes;40;3
+S1477;24;Male;4;4;2;No;94;7;Poor;5;High School;Poor;8;No;84;1
+S1478;17;Female;7;1;2;No;78;7;Good;5;High School;Good;3;Yes;98;1
+S1479;20;Female;2;3;2;No;91;6;Good;5;Bachelor;Good;4;No;43;2
+S1480;20;Male;4;5;1;Yes;81;5;Good;5;None;Good;1;No;56;0
+S1481;22;Female;6;2;2;No;65;8;Good;0;Master;Poor;7;No;85;3
+S1482;21;Male;3;2;1;No;79;7;Fair;1;None;Poor;1;No;67;0
+S1483;22;Male;4;2;2;No;73;6;Fair;3;Bachelor;Poor;2;No;76;2
+S1484;21;Female;2;1;1;No;85;5;Fair;2;Bachelor;Good;7;Yes;57;2
+S1485;22;Female;4;2;1;No;73;6;Fair;5;High School;Good;1;No;78;1
+S1486;19;Female;3;2;2;No;94;8;Fair;0;None;Good;3;No;69;0
+S1487;20;Male;5;1;2;No;84;7;Fair;6;Bachelor;Average;6;Yes;95;2
+S1488;17;Male;5;2;3;Yes;83;6;Good;3;Bachelor;Average;6;Yes;93;2
+S1489;21;Female;7;4;1;No;92;7;Good;3;High School;Good;6;Yes;100;1
+S1490;24;Female;4;1;2;No;95;6;Good;3;Master;Good;2;Yes;64;3
+S1491;21;Female;4;4;2;No;85;8;Good;0;High School;Good;2;No;53;1
+S1492;17;Male;4;3;2;No;77;8;Good;2;High School;Good;6;No;68;1
+S1493;22;Female;3;4;1;No;67;6;Poor;5;Bachelor;Average;10;No;74;2
+S1494;21;Male;4;2;2;No;78;6;Fair;3;High School;Good;5;No;66;1
+S1495;23;Male;3;4;2;No;79;3;Fair;0;Master;Good;7;No;50;3
+S1496;19;Female;4;1;2;No;86;5;Good;6;High School;Average;7;No;74;1
+S1497;20;Male;6;4;0;No;82;5;Fair;1;None;Average;5;No;80;0
+S1498;17;Female;2;3;2;No;92;7;Good;6;High School;Average;8;No;72;1
+S1499;20;Male;5;3;4;Yes;79;6;Poor;0;Bachelor;Poor;10;No;83;2
+S1500;23;Male;6;1;1;No;84;5;Fair;0;Bachelor;Good;6;No;84;2
+S1501;21;Female;3;1;1;No;97;6;Good;0;Bachelor;Poor;5;No;75;2
+S1502;21;Female;0;3;2;No;88;7;Poor;3;None;Average;4;Yes;34;0
+S1503;24;Female;3;1;2;Yes;84;7;Fair;0;High School;Average;7;No;63;1
+S1504;23;Female;5;3;3;No;79;4;Fair;1;Bachelor;Good;4;No;78;2
+S1505;17;Female;4;1;0;No;79;6;Fair;3;None;Average;5;Yes;73;0
+S1506;24;Female;2;4;3;No;76;5;Good;6;Master;Good;5;No;53;3
+S1507;19;Female;3;1;2;No;80;8;Fair;1;None;Poor;1;No;57;0
+S1508;24;Male;5;3;2;No;93;7;Fair;4;Bachelor;Poor;1;Yes;77;2
+S1509;18;Female;4;3;2;No;83;5;Poor;6;High School;Average;3;No;65;1
+S1510;17;Male;3;2;3;Yes;72;6;Good;0;Bachelor;Average;3;Yes;51;2
+S1511;18;Other;3;3;3;No;100;6;Fair;5;High School;Average;2;No;63;1
+S1512;23;Female;3;3;0;No;88;4;Good;5;None;Poor;2;Yes;62;0
+S1513;22;Male;2;2;3;Yes;71;7;Good;3;High School;Good;6;No;62;1
+S1514;18;Female;6;1;2;No;81;6;Fair;5;High School;Good;1;Yes;87;1
+S1515;19;Female;3;0;2;No;86;8;Good;6;High School;Poor;6;Yes;82;1
+S1516;24;Male;5;3;2;No;100;5;Good;3;Bachelor;Poor;5;Yes;81;2
+S1517;22;Female;6;1;2;No;74;6;Fair;6;Bachelor;Good;6;No;100;2
+S1518;24;Female;5;3;3;No;95;5;Poor;0;Bachelor;Good;5;No;80;2
+S1519;18;Male;3;2;2;Yes;99;5;Good;2;Bachelor;Average;7;No;71;2
+S1520;24;Female;4;3;1;Yes;79;5;Good;2;Bachelor;Good;1;No;63;2
+S1521;23;Male;4;2;1;No;82;8;Fair;1;High School;Good;3;No;64;1
+S1522;22;Female;2;2;2;No;75;6;Fair;0;High School;Good;6;Yes;44;1
+S1523;23;Other;4;3;3;No;83;7;Good;5;High School;Average;1;No;62;1
+S1524;18;Female;2;3;2;No;85;6;Good;0;Bachelor;Average;7;Yes;40;2
+S1525;23;Male;5;3;1;No;92;5;Good;4;High School;Poor;4;No;84;1
+S1526;19;Female;3;3;4;No;96;6;Fair;2;None;Good;3;No;41;0
+S1527;18;Female;4;1;2;No;78;7;Good;5;Bachelor;Good;10;No;82;2
+S1528;18;Male;4;3;3;No;65;5;Fair;6;High School;Average;9;Yes;77;1
+S1529;18;Female;3;3;2;No;85;8;Fair;6;Master;Good;1;No;66;3
+S1530;17;Male;4;1;2;No;88;6;Good;2;Master;Good;8;Yes;81;3
+S1531;24;Female;3;2;3;No;88;6;Good;0;None;Good;1;Yes;47;0
+S1532;17;Male;5;2;3;Yes;82;7;Fair;5;High School;Good;5;Yes;83;1
+S1533;17;Male;2;2;3;No;86;6;Fair;1;High School;Good;10;No;54;1
+S1534;19;Male;4;3;3;No;100;6;Good;6;Bachelor;Average;8;No;82;2
+S1535;22;Female;6;4;2;Yes;89;6;Fair;0;High School;Good;6;No;85;1
+S1536;24;Male;2;4;1;No;81;7;Good;1;Bachelor;Good;7;Yes;40;2
+S1537;23;Female;2;1;2;Yes;80;4;Good;5;Bachelor;Average;8;No;59;2
+S1538;21;Male;4;3;3;No;83;4;Poor;2;High School;Poor;6;No;68;1
+S1539;18;Male;4;4;2;No;100;7;Good;4;None;Good;6;Yes;81;0
+S1540;23;Female;4;3;3;No;83;8;Good;3;Bachelor;Average;6;Yes;75;2
+S1541;18;Female;4;4;3;Yes;85;5;Good;2;High School;Good;5;No;67;1
+S1542;19;Male;4;5;1;No;80;6;Good;1;Bachelor;Poor;8;No;72;2
+S1543;18;Female;5;4;1;No;96;7;Good;0;High School;Poor;2;No;77;1
+S1544;17;Female;4;3;2;No;100;7;Poor;6;Bachelor;Average;7;No;88;2
+S1545;24;Female;3;4;2;No;90;4;Fair;5;Master;Average;4;Yes;54;3
+S1546;21;Male;4;3;1;Yes;86;5;Good;2;Master;Good;1;Yes;63;3
+S1547;20;Male;6;2;3;No;85;6;Fair;6;High School;Good;5;No;96;1
+S1548;18;Female;3;2;2;No;61;7;Poor;6;High School;Poor;3;No;67;1
+S1549;23;Male;2;4;2;No;92;10;Good;4;Bachelor;Average;4;No;52;2
+S1550;17;Female;5;2;0;Yes;86;6;Good;5;High School;Average;7;No;98;1
+S1551;20;Female;3;4;0;Yes;89;5;Poor;1;High School;Average;5;No;67;1
+S1552;21;Female;0;3;2;Yes;78;7;Good;5;Master;Good;4;Yes;32;3
+S1553;20;Female;5;1;0;No;81;8;Good;5;High School;Average;1;No;88;1
+S1554;17;Other;3;3;3;No;81;7;Fair;0;None;Poor;6;No;53;0
+S1555;24;Male;3;0;2;No;95;5;Good;3;None;Average;10;Yes;83;0
+S1556;24;Female;4;3;5;No;81;8;Fair;6;Bachelor;Poor;6;No;79;2
+S1557;22;Male;4;4;4;No;100;7;Poor;1;Bachelor;Poor;7;Yes;70;2
+S1558;24;Male;5;2;2;No;89;5;Fair;0;High School;Average;1;Yes;60;1
+S1559;22;Female;3;3;2;No;72;7;Fair;6;High School;Good;4;No;70;1
+S1560;20;Female;4;5;3;Yes;84;8;Fair;3;High School;Good;9;No;80;1
+S1561;19;Other;3;2;4;No;78;8;Good;0;Bachelor;Good;10;Yes;67;2
+S1562;23;Female;5;1;0;No;63;6;Good;3;None;Average;6;No;92;0
+S1563;23;Male;4;4;0;Yes;100;6;Fair;3;Master;Average;2;No;70;3
+S1564;20;Male;2;5;1;No;92;8;Good;3;High School;Average;4;No;62;1
+S1565;18;Female;5;2;2;No;90;5;Poor;0;Master;Good;6;No;79;3
+S1566;18;Male;3;4;2;No;87;7;Poor;5;High School;Good;4;Yes;64;1
+S1567;24;Male;5;4;3;No;71;5;Good;3;Bachelor;Poor;10;Yes;93;2
+S1568;23;Male;4;2;0;No;80;8;Poor;5;High School;Poor;7;Yes;90;1
+S1569;23;Male;6;2;0;No;93;6;Fair;6;None;Good;3;Yes;100;0
+S1570;22;Male;3;4;3;No;74;8;Good;6;Master;Good;6;Yes;62;3
+S1571;19;Male;3;4;1;No;60;7;Fair;1;Master;Good;4;Yes;52;3
+S1572;17;Male;4;3;0;No;83;5;Good;4;High School;Good;3;No;60;1
+S1573;18;Male;3;1;2;No;84;8;Fair;5;Bachelor;Good;3;No;67;2
+S1574;23;Other;5;5;3;No;86;8;Poor;6;Bachelor;Average;2;No;90;2
+S1575;22;Male;1;2;2;No;92;8;Fair;4;Master;Good;3;Yes;48;3
+S1576;21;Male;2;2;1;No;91;6;Fair;3;High School;Good;10;No;62;1
+S1577;22;Female;2;3;2;Yes;88;6;Fair;4;Bachelor;Good;1;Yes;44;2
+S1578;18;Male;5;4;1;Yes;97;7;Fair;4;High School;Average;3;No;77;1
+S1579;18;Female;6;4;0;Yes;70;6;Good;3;High School;Average;9;Yes;100;1
+S1580;22;Female;3;3;1;No;90;8;Good;5;Master;Average;4;No;73;3
+S1581;17;Male;3;3;2;No;91;7;Fair;3;High School;Average;3;No;68;1
+S1582;20;Male;4;3;2;No;73;3;Fair;1;High School;Good;8;No;61;1
+S1583;18;Female;5;3;2;No;70;7;Fair;2;Bachelor;Poor;1;Yes;70;2
+S1584;22;Female;2;0;1;No;78;6;Good;0;Bachelor;Average;5;No;52;2
+S1585;23;Male;4;2;2;No;78;6;Good;3;High School;Good;1;No;63;1
+S1586;22;Female;5;3;0;Yes;92;6;Fair;3;High School;Poor;7;Yes;84;1
+S1587;19;Male;4;1;2;No;79;8;Good;4;Master;Average;5;No;71;3
+S1588;20;Other;4;3;3;No;76;8;Fair;1;High School;Average;2;No;62;1
+S1589;21;Male;5;2;0;No;79;7;Poor;6;Bachelor;Good;1;No;75;2
+S1590;17;Female;0;5;1;No;96;6;Poor;6;Bachelor;Average;7;No;42;2
+S1591;24;Female;4;4;2;No;85;6;Fair;4;High School;Good;1;No;64;1
+S1592;21;Female;2;2;3;Yes;83;6;Fair;5;Master;Average;3;No;60;3
+S1593;20;Female;1;2;1;Yes;84;6;Poor;3;Bachelor;Good;6;No;35;2
+S1594;20;Male;4;2;1;Yes;98;7;Good;3;High School;Average;6;No;88;1
+S1595;20;Male;6;2;0;No;78;7;Fair;4;Bachelor;Average;7;No;100;2
+S1596;21;Male;3;3;2;No;98;8;Fair;3;Bachelor;Poor;1;No;66;2
+S1597;23;Male;5;2;4;No;87;8;Fair;5;Bachelor;Poor;7;No;96;2
+S1598;20;Female;6;1;2;Yes;83;6;Poor;2;Master;Average;2;Yes;86;3
+S1599;22;Male;6;3;2;No;100;8;Fair;0;High School;Poor;6;No;77;1
+S1600;21;Male;6;3;2;No;74;5;Fair;0;High School;Average;8;Yes;90;1
+S1601;24;Other;5;2;2;No;82;7;Fair;0;High School;Good;5;Yes;80;1
+S1602;20;Female;4;4;1;No;73;6;Poor;2;None;Average;10;Yes;73;0
+S1603;22;Female;1;2;3;No;94;5;Fair;3;None;Average;3;No;36;0
+S1604;23;Other;3;3;2;No;100;7;Poor;4;Master;Good;8;Yes;73;3
+S1605;19;Male;2;4;2;No;100;3;Good;6;Bachelor;Good;8;No;68;2
+S1606;23;Male;7;2;1;No;97;4;Good;1;Bachelor;Poor;4;No;93;2
+S1607;24;Female;3;3;3;No;83;6;Poor;3;Bachelor;Average;8;Yes;58;2
+S1608;20;Female;4;2;2;No;81;7;Fair;2;Bachelor;Good;5;Yes;61;2
+S1609;24;Male;4;2;1;No;68;6;Poor;5;High School;Poor;5;No;77;1
+S1610;21;Female;4;2;3;No;100;5;Fair;2;Master;Good;3;No;70;3
+S1611;18;Male;6;2;1;No;90;6;Fair;6;High School;Poor;7;No;100;1
+S1612;20;Male;3;2;1;No;80;7;Fair;0;Master;Good;9;No;69;3
+S1613;18;Female;4;1;1;No;98;7;Fair;3;Bachelor;Average;9;No;86;2
+S1614;22;Female;2;2;0;No;75;6;Good;6;High School;Good;1;No;54;1
+S1615;19;Female;2;2;2;No;89;8;Fair;0;Bachelor;Average;1;No;44;2
+S1616;17;Male;3;2;0;No;83;7;Fair;1;Bachelor;Good;10;No;79;2
+S1617;24;Female;3;2;0;No;91;6;Fair;5;High School;Poor;5;No;71;1
+S1618;23;Male;3;2;0;No;84;6;Good;0;Bachelor;Average;1;Yes;61;2
+S1619;19;Male;2;3;2;No;70;5;Good;1;High School;Good;4;No;45;1
+S1620;20;Female;1;4;2;No;86;6;Fair;2;None;Average;1;No;40;0
+S1621;18;Female;3;2;1;No;96;8;Good;0;Master;Good;2;No;71;3
+S1622;23;Female;1;1;1;No;85;7;Fair;0;Bachelor;Average;2;Yes;36;2
+S1623;18;Female;5;1;0;No;93;8;Good;4;Master;Good;4;No;93;3
+S1624;21;Female;4;2;2;No;74;6;Good;5;Bachelor;Average;8;Yes;83;2
+S1625;18;Female;1;2;1;No;85;8;Poor;5;High School;Good;2;Yes;47;1
+S1626;21;Male;3;2;2;No;79;6;Good;6;Bachelor;Good;9;Yes;71;2
+S1627;22;Male;2;1;1;No;92;8;Fair;2;Bachelor;Average;9;No;78;2
+S1628;23;Male;4;2;2;No;85;6;Fair;4;Master;Good;2;Yes;71;3
+S1629;23;Male;6;3;3;Yes;92;7;Fair;6;High School;Good;1;No;83;1
+S1630;17;Female;1;3;2;No;96;8;Good;1;Master;Average;10;Yes;50;3
+S1631;20;Female;4;2;1;No;92;6;Fair;6;Master;Good;10;No;81;3
+S1632;21;Male;3;2;2;No;88;7;Poor;1;Bachelor;Poor;9;Yes;75;2
+S1633;17;Male;4;1;2;No;75;8;Good;2;Master;Good;2;Yes;84;3
+S1634;18;Female;4;2;2;No;85;6;Poor;5;High School;Average;8;No;77;1
+S1635;18;Male;2;2;1;No;80;5;Poor;1;Master;Poor;3;No;46;3
+S1636;17;Female;3;3;2;No;82;9;Fair;2;Bachelor;Average;1;Yes;58;2
+S1637;23;Female;2;0;2;No;81;6;Fair;6;None;Good;1;Yes;70;0
+S1638;18;Female;5;2;1;Yes;75;7;Fair;1;Master;Good;10;Yes;99;3
+S1639;24;Female;4;3;1;No;65;8;Poor;3;High School;Good;2;No;63;1
+S1640;22;Female;6;3;0;Yes;78;6;Good;0;High School;Average;7;No;98;1
+S1641;22;Male;3;6;0;No;87;5;Good;6;Bachelor;Poor;6;No;75;2
+S1642;24;Female;2;3;0;No;72;7;Fair;5;High School;Good;2;Yes;50;1
+S1643;17;Female;1;1;2;No;85;4;Fair;6;High School;Good;4;No;49;1
+S1644;24;Male;1;2;1;No;100;6;Fair;3;Bachelor;Average;2;Yes;35;2
+S1645;21;Female;1;0;2;Yes;95;7;Good;2;None;Average;1;Yes;46;0
+S1646;21;Female;4;2;2;No;100;6;Poor;2;High School;Average;3;No;68;1
+S1647;17;Female;4;2;0;No;89;5;Poor;6;None;Average;4;No;84;0
+S1648;24;Female;1;4;2;No;97;8;Good;3;High School;Good;10;Yes;55;1
+S1649;21;Female;5;2;3;No;78;7;Fair;6;Bachelor;Average;5;No;88;2
+S1650;23;Female;3;2;1;No;79;8;Fair;0;Bachelor;Good;5;No;62;2
+S1651;24;Female;4;2;2;Yes;58;6;Good;0;Master;Average;7;No;76;3
+S1652;23;Female;6;5;1;No;97;5;Good;4;Bachelor;Average;10;No;100;2
+S1653;21;Female;5;2;2;No;100;7;Fair;1;High School;Good;8;No;83;1
+S1654;22;Female;3;5;0;No;80;6;Good;4;Master;Good;9;No;72;3
+S1655;21;Female;2;4;0;No;82;5;Poor;0;Bachelor;Average;7;No;58;2
+S1656;23;Male;0;3;1;Yes;78;8;Good;3;Bachelor;Good;5;No;36;2
+S1657;19;Female;2;3;2;No;89;6;Fair;1;Bachelor;Average;9;Yes;67;2
+S1658;20;Female;3;3;1;Yes;96;4;Good;3;Master;Good;8;No;75;3
+S1659;18;Male;2;0;0;No;68;8;Good;4;Bachelor;Average;10;Yes;74;2
+S1660;24;Female;3;2;1;No;89;6;Good;2;High School;Good;9;Yes;80;1
+S1661;19;Male;4;4;2;No;82;6;Good;3;Bachelor;Poor;10;No;62;2
+S1662;21;Male;3;2;2;No;86;4;Fair;4;None;Average;8;Yes;76;0
+S1663;22;Female;2;1;2;No;90;9;Fair;4;High School;Good;6;No;76;1
+S1664;17;Male;4;2;1;No;83;5;Fair;4;High School;Good;4;No;64;1
+S1665;21;Female;4;4;3;No;84;7;Good;2;High School;Average;9;No;75;1
+S1666;22;Female;2;4;0;Yes;83;8;Good;2;None;Average;9;Yes;50;0
+S1667;20;Female;6;2;2;No;95;7;Fair;6;High School;Average;10;Yes;100;1
+S1668;21;Male;3;4;3;No;89;6;Good;2;Bachelor;Good;10;No;76;2
+S1669;23;Male;4;2;2;No;87;4;Good;1;Bachelor;Good;9;No;70;2
+S1670;17;Female;5;0;2;No;72;6;Good;2;Master;Good;10;Yes;89;3
+S1671;22;Other;4;1;1;No;81;7;Good;2;High School;Average;3;Yes;70;1
+S1672;22;Female;5;4;3;No;94;6;Fair;2;Bachelor;Good;3;No;69;2
+S1673;22;Male;4;2;0;No;85;7;Poor;3;Master;Average;6;Yes;85;3
+S1674;20;Female;3;2;1;No;92;7;Poor;2;High School;Poor;6;No;64;1
+S1675;21;Female;4;2;1;No;100;8;Fair;1;Bachelor;Good;6;No;82;2
+S1676;20;Female;2;5;3;No;95;5;Good;4;Bachelor;Good;5;No;37;2
+S1677;24;Male;4;4;2;No;86;9;Good;3;None;Good;5;No;74;0
+S1678;18;Female;4;5;1;Yes;80;7;Good;0;Master;Good;2;Yes;53;3
+S1679;18;Female;3;2;2;No;60;6;Good;2;Bachelor;Good;7;No;64;2
+S1680;24;Other;3;3;1;No;83;8;Poor;6;None;Good;4;No;70;0
+S1681;21;Male;1;1;1;No;82;9;Poor;6;None;Average;3;No;52;0
+S1682;23;Female;3;4;3;No;89;5;Poor;4;None;Average;8;No;53;0
+S1683;20;Female;4;1;0;Yes;84;6;Fair;4;High School;Good;4;No;77;1
+S1684;17;Male;4;3;4;No;82;4;Fair;3;Bachelor;Good;4;Yes;60;2
+S1685;22;Female;2;1;3;No;67;7;Poor;6;Bachelor;Average;8;No;55;2
+S1686;22;Female;5;2;3;Yes;76;7;Fair;0;High School;Average;1;No;70;1
+S1687;21;Male;2;2;1;Yes;90;6;Poor;5;Master;Average;9;No;72;3
+S1688;23;Male;5;2;2;No;100;6;Good;6;High School;Poor;7;No;93;1
+S1689;18;Female;4;2;0;No;84;4;Fair;6;None;Good;2;No;72;0
+S1690;18;Male;2;2;1;Yes;88;7;Fair;1;High School;Average;6;No;70;1
+S1691;22;Female;6;4;2;No;94;8;Fair;5;Bachelor;Good;8;No;100;2
+S1692;21;Male;2;1;3;No;77;6;Good;4;High School;Average;5;Yes;37;1
+S1693;20;Female;5;3;1;No;89;7;Fair;5;High School;Average;6;No;89;1
+S1694;18;Male;5;4;1;No;78;5;Fair;6;High School;Poor;10;No;89;1
+S1695;20;Female;2;2;2;No;94;7;Good;4;Bachelor;Good;8;No;68;2
+S1696;23;Other;6;2;0;No;86;6;Fair;5;Master;Good;6;No;100;3
+S1697;18;Other;3;2;2;No;88;6;Good;4;High School;Good;9;No;67;1
+S1698;18;Female;4;4;1;No;77;6;Fair;4;High School;Poor;9;No;72;1
+S1699;19;Male;4;3;2;No;92;6;Fair;3;Bachelor;Average;9;No;78;2
+S1700;18;Female;3;2;1;No;100;7;Poor;0;Bachelor;Poor;6;Yes;68;2
+S1701;24;Male;5;3;1;No;75;5;Good;4;High School;Average;9;Yes;96;1
+S1702;17;Male;5;1;2;No;82;6;Fair;1;Master;Good;3;No;83;3
+S1703;24;Male;1;3;2;Yes;87;6;Poor;6;Bachelor;Good;5;No;38;2
+S1704;21;Female;6;3;1;No;93;5;Fair;6;High School;Good;2;Yes;76;1
+S1705;21;Female;1;2;1;No;79;9;Fair;1;Bachelor;Average;8;Yes;53;2
+S1706;20;Female;5;2;2;No;57;6;Poor;2;Master;Average;4;No;84;3
+S1707;24;Male;5;1;4;No;99;6;Good;4;Bachelor;Average;6;No;92;2
+S1708;24;Male;2;3;2;No;93;5;Good;4;None;Poor;6;No;53;0
+S1709;24;Other;3;4;3;No;68;9;Poor;4;High School;Good;5;Yes;56;1
+S1710;23;Male;2;2;0;No;79;7;Fair;5;High School;Good;1;No;58;1
+S1711;18;Male;3;3;2;No;100;5;Good;4;High School;Average;7;No;71;1
+S1712;17;Male;3;0;1;Yes;100;8;Fair;4;Bachelor;Average;10;No;99;2
+S1713;20;Female;5;2;0;Yes;94;7;Fair;1;Bachelor;Good;8;No;83;2
+S1714;24;Female;6;2;1;No;83;7;Fair;0;Bachelor;Good;1;Yes;81;2
+S1715;24;Male;6;1;3;No;86;6;Good;0;Master;Good;10;No;91;3
+S1716;19;Male;3;1;3;No;84;6;Good;2;High School;Average;7;Yes;64;1
+S1717;20;Female;3;2;2;Yes;96;7;Good;1;Master;Average;4;Yes;66;3
+S1718;24;Female;1;3;0;No;76;6;Poor;4;Bachelor;Good;6;No;50;2
+S1719;20;Male;2;2;2;Yes;77;9;Fair;0;High School;Good;9;No;69;1
+S1720;18;Female;5;0;2;Yes;95;5;Good;3;Bachelor;Average;5;No;94;2
+S1721;19;Male;6;0;2;Yes;85;8;Poor;3;High School;Good;8;No;100;1
+S1722;20;Male;2;2;0;No;99;6;Good;3;Bachelor;Good;5;No;59;2
+S1723;17;Female;3;3;1;No;78;7;Good;4;Bachelor;Average;2;No;53;2
+S1724;17;Male;4;0;2;No;84;8;Poor;4;High School;Average;4;Yes;70;1
+S1725;21;Female;4;2;2;No;76;6;Good;2;Bachelor;Average;2;No;64;2
+S1726;19;Male;2;2;0;Yes;85;8;Fair;6;Bachelor;Poor;7;Yes;77;2
+S1727;19;Male;4;4;2;No;70;3;Good;2;High School;Good;7;No;57;1
+S1728;21;Other;3;2;2;No;80;6;Fair;2;None;Average;3;Yes;60;0
+S1729;20;Male;4;3;3;No;71;5;Fair;5;High School;Good;7;No;67;1
+S1730;19;Female;4;3;3;Yes;92;5;Good;3;Bachelor;Good;1;No;58;2
+S1731;17;Male;4;0;2;No;92;6;Good;4;Master;Poor;1;No;64;3
+S1732;17;Male;3;3;1;No;68;7;Poor;3;Master;Average;9;No;63;3
+S1733;24;Male;3;3;0;No;98;7;Fair;2;Bachelor;Good;6;No;71;2
+S1734;18;Female;3;3;1;No;100;7;Poor;4;Bachelor;Good;5;No;75;2
+S1735;19;Male;3;7;3;Yes;86;6;Fair;1;High School;Good;6;No;50;1
+S1736;20;Female;3;0;3;No;79;7;Fair;0;Bachelor;Average;6;No;73;2
+S1737;21;Male;6;5;3;Yes;100;7;Fair;0;High School;Average;1;Yes;73;1
+S1738;21;Other;4;2;2;No;72;8;Fair;2;High School;Good;5;Yes;76;1
+S1739;20;Male;3;3;2;No;85;7;Poor;6;Bachelor;Good;9;Yes;74;2
+S1740;23;Female;4;2;1;Yes;87;6;Poor;3;None;Average;4;Yes;79;0
+S1741;22;Female;3;2;2;No;98;5;Poor;1;Bachelor;Good;3;No;51;2
+S1742;18;Female;5;2;4;No;89;6;Fair;4;Bachelor;Average;1;Yes;71;2
+S1743;21;Female;4;3;1;Yes;80;6;Good;6;High School;Good;2;Yes;76;1
+S1744;19;Female;3;1;4;No;76;6;Poor;3;High School;Good;3;Yes;53;1
+S1745;18;Female;4;3;1;No;82;7;Good;2;Master;Average;4;No;74;3
+S1746;19;Male;1;2;3;No;75;7;Good;3;Bachelor;Good;7;No;43;2
+S1747;23;Male;2;1;0;No;86;6;Good;2;High School;Average;6;No;50;1
+S1748;17;Female;2;2;2;No;79;6;Good;5;High School;Average;8;No;46;1
+S1749;18;Female;4;4;1;No;70;7;Good;0;Bachelor;Poor;9;Yes;77;2
+S1750;24;Female;6;2;0;No;98;6;Poor;6;Bachelor;Poor;6;No;98;2
+S1751;21;Female;7;3;2;No;80;5;Fair;0;High School;Average;7;No;96;1
+S1752;18;Male;4;2;3;Yes;72;4;Good;3;High School;Good;4;Yes;71;1
+S1753;18;Male;4;3;1;No;83;6;Fair;1;Master;Good;2;No;59;3
+S1754;18;Female;1;3;0;No;86;7;Good;4;Bachelor;Poor;9;No;52;2
+S1755;22;Male;3;5;2;Yes;68;6;Poor;2;Master;Good;9;No;59;3
+S1756;18;Male;2;2;2;No;88;6;Good;4;Bachelor;Good;4;No;58;2
+S1757;19;Female;3;3;2;No;74;7;Fair;0;Master;Good;3;Yes;44;3
+S1758;17;Male;3;3;3;No;100;7;Fair;1;High School;Good;10;Yes;75;1
+S1759;23;Female;3;4;2;Yes;90;5;Fair;1;Bachelor;Average;6;Yes;55;2
+S1760;20;Male;0;2;4;Yes;81;8;Good;4;None;Average;3;Yes;30;0
+S1761;18;Female;5;3;2;No;78;8;Good;0;Bachelor;Good;1;Yes;72;2
+S1762;21;Male;2;2;1;No;84;5;Fair;4;High School;Poor;4;No;52;1
+S1763;18;Male;4;2;0;Yes;91;6;Good;3;High School;Poor;1;Yes;60;1
+S1764;21;Male;7;3;2;No;85;8;Fair;1;Master;Poor;2;No;97;3
+S1765;19;Male;2;3;1;Yes;83;6;Poor;1;Master;Average;3;No;44;3
+S1766;21;Male;0;2;3;No;86;4;Poor;3;None;Average;8;No;30;0
+S1767;24;Male;3;3;2;No;79;5;Poor;0;Bachelor;Average;10;No;64;2
+S1768;20;Female;5;4;0;No;82;6;Fair;1;High School;Poor;4;No;74;1
+S1769;17;Male;6;4;2;No;64;5;Fair;6;High School;Good;4;No;99;1
+S1770;21;Female;2;4;2;No;95;6;Good;5;Bachelor;Good;10;No;53;2
+S1771;21;Female;4;2;4;No;88;6;Good;5;High School;Average;9;No;85;1
+S1772;17;Female;3;1;3;No;77;8;Poor;5;Master;Poor;7;No;73;3
+S1773;20;Male;3;4;3;No;100;6;Fair;2;High School;Poor;2;Yes;57;1
+S1774;18;Female;8;4;2;Yes;86;8;Fair;6;Bachelor;Average;3;No;100;2
+S1775;21;Male;1;4;2;No;75;8;Fair;2;Bachelor;Average;4;No;36;2
+S1776;17;Male;4;2;3;No;94;8;Poor;0;High School;Average;4;No;66;1
+S1777;24;Other;4;2;0;Yes;89;7;Poor;3;High School;Good;10;Yes;88;1
+S1778;24;Male;5;0;1;No;89;4;Good;4;Bachelor;Average;8;No;100;2
+S1779;19;Female;4;2;1;Yes;81;7;Good;6;Bachelor;Average;10;No;86;2
+S1780;17;Female;4;4;2;No;90;8;Poor;0;High School;Average;10;Yes;89;1
+S1781;19;Female;3;2;3;No;82;6;Fair;4;Bachelor;Good;6;No;67;2
+S1782;24;Female;4;3;1;Yes;91;9;Fair;0;None;Good;3;No;56;0
+S1783;20;Male;3;2;0;No;66;8;Good;2;High School;Good;9;No;78;1
+S1784;18;Male;4;3;1;No;81;7;Fair;5;High School;Good;10;No;91;1
+S1785;17;Female;3;1;3;No;100;8;Poor;3;None;Average;8;No;68;0
+S1786;23;Male;4;3;2;No;77;7;Good;2;Bachelor;Average;9;No;85;2
+S1787;24;Male;4;0;2;No;79;4;Fair;3;Bachelor;Good;5;Yes;64;2
+S1788;24;Male;5;2;2;No;80;6;Fair;6;Master;Poor;3;No;83;3
+S1789;23;Male;3;0;0;No;73;8;Fair;4;Bachelor;Good;4;No;78;2
+S1790;22;Male;1;4;2;No;63;6;Fair;0;Master;Good;5;No;32;3
+S1791;24;Male;5;3;1;No;83;6;Fair;1;Bachelor;Good;9;No;92;2
+S1792;21;Female;2;3;4;No;86;5;Fair;1;Bachelor;Poor;9;Yes;50;2
+S1793;20;Female;2;4;2;No;84;9;Fair;3;Master;Good;3;No;49;3
+S1794;17;Female;3;1;1;No;84;8;Poor;5;Bachelor;Average;7;No;80;2
+S1795;23;Male;6;5;1;No;85;5;Good;5;None;Poor;6;Yes;90;0
+S1796;21;Male;0;4;2;No;95;7;Poor;3;Bachelor;Average;4;Yes;34;2
+S1797;23;Male;8;2;2;No;83;6;Poor;2;Master;Good;5;Yes;100;3
+S1798;17;Female;5;4;3;No;79;7;Good;1;Bachelor;Average;10;No;91;2
+S1799;19;Female;4;1;2;No;82;7;Good;2;Bachelor;Average;2;Yes;66;2
+S1800;17;Male;3;2;1;No;91;8;Good;4;Bachelor;Poor;7;Yes;86;2
+S1801;22;Female;4;2;4;No;99;7;Fair;1;Master;Good;4;No;66;3
+S1802;17;Male;4;2;2;No;79;10;Fair;4;None;Good;2;No;83;0
+S1803;17;Female;4;1;3;No;86;5;Good;0;Bachelor;Good;6;Yes;76;2
+S1804;22;Female;4;4;1;Yes;88;4;Good;2;High School;Average;2;Yes;59;1
+S1805;20;Female;4;2;2;No;75;6;Fair;3;Bachelor;Average;10;Yes;76;2
+S1806;24;Female;3;3;2;No;85;5;Good;1;Bachelor;Good;2;Yes;40;2
+S1807;17;Female;3;2;0;No;70;5;Poor;2;High School;Average;7;Yes;65;1
+S1808;22;Male;3;0;4;Yes;67;5;Good;3;High School;Good;1;No;44;1
+S1809;21;Female;5;3;3;No;89;5;Good;0;Bachelor;Good;7;Yes;90;2
+S1810;19;Male;4;0;1;No;81;5;Good;1;High School;Average;10;No;81;1
+S1811;19;Female;0;2;1;Yes;87;7;Good;4;High School;Average;5;No;53;1
+S1812;17;Female;4;1;2;No;85;6;Good;0;Bachelor;Good;1;No;71;2
+S1813;20;Female;4;5;2;No;75;6;Poor;5;High School;Average;6;No;66;1
+S1814;20;Male;4;4;2;No;84;8;Fair;3;High School;Average;7;No;75;1
+S1815;21;Female;3;3;2;No;73;6;Poor;1;Master;Good;1;No;44;3
+S1816;17;Female;5;4;2;No;99;6;Fair;1;High School;Average;9;No;81;1
+S1817;19;Female;5;2;3;No;71;7;Good;6;High School;Good;7;Yes;88;1
+S1818;20;Male;2;3;2;No;83;4;Fair;6;Bachelor;Poor;1;Yes;48;2
+S1819;17;Male;4;3;1;No;75;4;Fair;0;Bachelor;Good;3;No;67;2
+S1820;23;Male;2;3;3;No;91;7;Fair;1;Master;Poor;5;No;51;3
+S1821;20;Male;1;4;4;No;82;7;Good;3;Master;Poor;4;No;35;3
+S1822;22;Female;3;3;5;No;80;9;Poor;0;Bachelor;Good;2;No;49;2
+S1823;23;Male;5;3;1;No;94;7;Fair;4;High School;Good;1;No;85;1
+S1824;24;Other;5;0;2;No;85;8;Poor;0;None;Average;4;No;84;0
+S1825;20;Male;4;1;0;Yes;90;6;Good;0;High School;Average;7;No;90;1
+S1826;19;Male;5;2;2;No;75;7;Poor;4;High School;Good;4;No;88;1
+S1827;18;Female;4;3;1;No;71;8;Good;5;Bachelor;Average;9;No;88;2
+S1828;23;Female;2;1;4;No;86;4;Fair;6;Bachelor;Good;8;No;58;2
+S1829;24;Female;4;5;1;No;82;7;Poor;3;None;Good;8;Yes;73;0
+S1830;21;Female;5;4;0;No;91;9;Good;5;Bachelor;Good;5;No;84;2
+S1831;21;Female;5;3;1;No;84;7;Poor;5;High School;Average;1;Yes;78;1
+S1832;19;Male;5;3;0;Yes;87;8;Fair;5;High School;Average;9;Yes;98;1
+S1833;20;Other;5;2;3;No;69;6;Poor;6;Bachelor;Good;2;No;78;2
+S1834;17;Other;4;1;0;Yes;100;6;Fair;2;High School;Poor;6;Yes;81;1
+S1835;20;Female;5;3;2;No;83;6;Fair;6;High School;Average;10;No;100;1
+S1836;19;Male;4;3;0;No;92;4;Fair;5;None;Poor;5;Yes;59;0
+S1837;21;Female;2;1;1;No;77;5;Poor;2;High School;Poor;10;No;63;1
+S1838;20;Male;3;3;4;No;88;5;Fair;4;Bachelor;Average;8;Yes;60;2
+S1839;21;Male;2;2;2;No;72;8;Good;6;Master;Average;3;No;64;3
+S1840;23;Male;2;0;1;Yes;90;8;Good;3;High School;Good;6;Yes;80;1
+S1841;24;Male;3;2;2;Yes;81;7;Fair;5;High School;Average;6;No;63;1
+S1842;17;Female;2;2;2;No;85;8;Fair;1;Bachelor;Average;10;No;71;2
+S1843;23;Female;3;5;2;Yes;92;6;Fair;4;Master;Poor;3;No;61;3
+S1844;21;Female;1;3;0;Yes;73;8;Fair;2;High School;Good;7;Yes;47;1
+S1845;21;Male;4;1;2;No;78;6;Poor;6;High School;Average;4;Yes;78;1
+S1846;18;Male;4;3;0;No;90;7;Fair;3;Bachelor;Good;5;Yes;76;2
+S1847;18;Male;2;1;1;No;100;6;Fair;0;Bachelor;Good;9;No;74;2
+S1848;23;Other;4;4;1;No;84;7;Fair;3;High School;Poor;6;No;75;1
+S1849;22;Male;5;2;2;No;91;6;Fair;3;Bachelor;Average;10;No;99;2
+S1850;23;Female;1;2;2;No;84;8;Good;5;High School;Average;4;Yes;49;1
+S1851;18;Female;2;4;0;No;100;5;Poor;5;Bachelor;Good;8;No;67;2
+S1852;21;Male;2;1;1;No;68;5;Good;6;Bachelor;Good;9;No;72;2
+S1853;19;Female;2;1;2;No;86;7;Good;6;Master;Good;10;Yes;68;3
+S1854;23;Female;5;2;2;No;69;6;Fair;2;High School;Average;5;No;70;1
+S1855;21;Female;3;4;1;No;60;6;Fair;6;High School;Good;2;No;56;1
+S1856;19;Female;3;1;1;Yes;88;8;Fair;2;High School;Poor;6;Yes;82;1
+S1857;19;Male;0;0;3;Yes;86;6;Poor;5;Master;Poor;8;Yes;45;3
+S1858;18;Male;4;2;1;Yes;82;6;Fair;5;High School;Good;5;Yes;84;1
+S1859;23;Female;2;3;2;No;84;8;Good;1;High School;Good;1;No;37;1
+S1860;20;Female;4;4;4;No;100;8;Poor;1;High School;Poor;8;Yes;66;1
+S1861;17;Male;4;2;0;No;82;8;Fair;4;Bachelor;Poor;9;Yes;94;2
+S1862;18;Female;6;2;0;No;90;6;Good;5;High School;Poor;1;No;94;1
+S1863;18;Female;2;4;3;No;78;8;Good;0;High School;Poor;8;Yes;42;1
+S1864;20;Female;0;0;1;Yes;88;5;Fair;1;High School;Average;10;Yes;53;1
+S1865;17;Male;4;2;1;No;83;5;Good;2;Master;Good;2;No;66;3
+S1866;21;Female;6;3;1;No;81;4;Fair;3;Bachelor;Good;4;Yes;88;2
+S1867;22;Female;5;3;2;No;100;8;Poor;6;Bachelor;Good;2;No;94;2
+S1868;23;Male;4;2;4;No;97;6;Fair;6;Master;Good;2;No;78;3
+S1869;22;Male;3;2;3;Yes;86;6;Fair;4;Master;Average;10;No;75;3
+S1870;21;Other;5;0;3;Yes;62;5;Good;1;High School;Good;3;No;68;1
+S1871;24;Male;2;2;0;Yes;81;7;Poor;3;Master;Good;8;Yes;66;3
+S1872;18;Female;4;3;0;No;100;6;Fair;3;None;Average;4;No;78;0
+S1873;17;Female;4;1;0;No;83;5;Fair;1;High School;Good;7;No;85;1
+S1874;18;Male;5;3;1;No;96;7;Fair;0;Master;Average;10;No;97;3
+S1875;19;Female;8;3;3;No;99;5;Poor;0;High School;Good;3;No;100;1
+S1876;18;Male;4;2;2;No;87;6;Fair;4;High School;Good;10;No;83;1
+S1877;18;Female;3;3;2;No;77;4;Good;0;High School;Average;3;No;37;1
+S1878;21;Male;4;1;2;Yes;61;5;Fair;4;Bachelor;Good;2;No;60;2
+S1879;21;Female;1;2;1;No;92;7;Fair;2;High School;Poor;6;No;44;1
+S1880;21;Male;2;3;2;No;77;4;Fair;1;Bachelor;Good;6;No;42;2
+S1881;22;Male;3;3;3;Yes;87;5;Fair;3;Master;Average;1;No;46;3
+S1882;19;Other;3;2;0;No;72;6;Fair;4;Bachelor;Poor;7;No;68;2
+S1883;24;Male;4;3;2;No;82;6;Good;6;High School;Average;4;No;76;1
+S1884;24;Female;2;3;3;No;85;9;Good;0;Master;Good;3;No;41;3
+S1885;21;Male;5;0;1;No;88;9;Fair;6;High School;Poor;8;No;100;1
+S1886;17;Female;4;4;3;No;74;6;Fair;4;High School;Good;2;Yes;66;1
+S1887;22;Male;4;2;5;No;97;7;Good;5;None;Poor;9;No;76;0
+S1888;20;Other;3;3;2;Yes;79;7;Fair;4;Bachelor;Good;8;Yes;70;2
+S1889;17;Male;4;4;2;Yes;68;6;Fair;0;High School;Good;8;No;67;1
+S1890;23;Male;5;1;1;Yes;84;5;Fair;5;High School;Average;3;No;84;1
+S1891;23;Male;2;2;2;Yes;85;6;Good;5;High School;Average;4;Yes;66;1
+S1892;17;Male;2;2;2;No;87;6;Fair;0;High School;Good;2;No;47;1
+S1893;21;Female;3;2;2;No;99;6;Good;5;Bachelor;Good;2;No;68;2
+S1894;20;Male;2;5;1;Yes;83;7;Good;1;Bachelor;Good;4;Yes;45;2
+S1895;20;Female;2;2;2;No;84;6;Fair;3;Bachelor;Average;6;No;57;2
+S1896;22;Male;3;2;3;Yes;74;5;Good;6;High School;Average;5;No;58;1
+S1897;20;Male;5;3;2;No;93;7;Good;1;High School;Good;1;Yes;71;1
+S1898;23;Female;4;1;3;No;87;7;Fair;1;Master;Average;10;No;76;3
+S1899;19;Female;4;2;2;No;81;5;Poor;0;None;Average;1;No;56;0
+S1900;21;Male;5;3;3;No;66;8;Poor;0;Master;Average;6;Yes;82;3
+S1901;20;Male;3;2;2;No;99;4;Fair;6;High School;Good;3;Yes;71;1
+S1902;22;Male;4;2;1;No;73;6;Fair;3;Master;Good;3;No;67;3
+S1903;23;Female;3;2;2;No;79;6;Fair;4;High School;Average;7;No;71;1
+S1904;19;Female;4;1;1;Yes;89;6;Poor;1;High School;Poor;1;Yes;73;1
+S1905;18;Male;3;3;1;Yes;73;6;Good;5;Bachelor;Poor;1;Yes;54;2
+S1906;18;Female;0;5;2;Yes;70;9;Fair;3;Bachelor;Average;10;No;43;2
+S1907;19;Female;3;2;2;No;64;6;Fair;1;High School;Average;3;No;55;1
+S1908;23;Female;6;3;0;Yes;92;9;Fair;4;Bachelor;Good;8;No;100;2
+S1909;22;Female;5;3;3;No;80;7;Fair;5;Bachelor;Average;1;No;72;2
+S1910;19;Male;5;1;2;No;100;7;Fair;1;None;Average;10;No;89;0
+S1911;21;Male;5;4;1;No;75;7;Fair;2;None;Good;4;No;84;0
+S1912;21;Male;4;3;0;No;76;10;Poor;6;High School;Average;9;No;89;1
+S1913;18;Male;4;4;2;Yes;79;5;Good;3;High School;Good;4;No;54;1
+S1914;20;Female;3;2;1;Yes;87;5;Good;6;Bachelor;Poor;10;No;73;2
+S1915;22;Female;3;5;2;No;80;6;Fair;0;High School;Average;8;No;61;1
+S1916;18;Male;4;3;1;No;91;6;Good;1;High School;Good;7;No;69;1
+S1917;20;Male;5;3;0;No;75;4;Good;5;High School;Good;3;No;77;1
+S1918;20;Male;3;3;1;Yes;71;6;Poor;5;Bachelor;Average;7;No;72;2
+S1919;24;Female;3;2;2;No;67;8;Good;3;High School;Good;7;Yes;75;1
+S1920;21;Male;4;4;2;Yes;63;7;Good;3;None;Good;10;No;74;0
+S1921;23;Female;4;3;1;No;80;6;Fair;6;None;Average;3;No;85;0
+S1922;17;Male;1;0;4;No;82;6;Poor;5;Master;Average;2;Yes;44;3
+S1923;23;Male;0;1;0;No;79;8;Poor;5;High School;Good;9;No;53;1
+S1924;17;Other;3;2;3;Yes;97;6;Poor;5;Bachelor;Average;1;Yes;57;2
+S1925;19;Other;2;3;2;Yes;97;9;Good;1;None;Good;7;No;54;0
+S1926;21;Male;3;2;3;No;82;9;Fair;5;High School;Good;4;Yes;59;1
+S1927;20;Female;3;4;2;No;67;7;Good;0;Bachelor;Good;2;No;44;2
+S1928;22;Female;3;0;3;No;79;6;Good;5;High School;Average;2;No;66;1
+S1929;17;Female;6;3;1;No;79;8;Good;0;Master;Average;8;Yes;90;3
+S1930;23;Male;4;0;1;No;78;8;Good;1;Master;Good;7;No;90;3
+S1931;20;Female;4;3;3;Yes;78;6;Poor;3;Bachelor;Average;7;Yes;69;2
+S1932;17;Female;4;2;2;No;78;6;Fair;0;Bachelor;Average;5;No;77;2
+S1933;17;Female;2;3;2;No;81;5;Good;1;High School;Average;10;No;48;1
+S1934;24;Male;5;2;3;No;79;7;Poor;5;High School;Poor;8;Yes;89;1
+S1935;17;Male;3;4;1;Yes;87;7;Poor;1;Master;Good;2;No;62;3
+S1936;22;Male;4;4;2;No;89;5;Good;5;Bachelor;Average;2;Yes;66;2
+S1937;21;Female;2;3;1;No;76;6;Good;6;Bachelor;Good;5;No;42;2
+S1938;22;Male;1;2;2;No;98;5;Fair;1;High School;Poor;1;No;28;1
+S1939;18;Female;5;3;2;No;75;5;Good;3;None;Good;6;No;71;0
+S1940;20;Other;4;2;0;Yes;69;7;Good;0;Master;Average;4;No;68;3
+S1941;21;Male;2;4;1;No;89;6;Fair;6;High School;Good;6;No;63;1
+S1942;24;Female;2;4;3;No;77;6;Poor;3;High School;Good;7;No;50;1
+S1943;21;Male;5;4;3;No;88;4;Good;2;High School;Poor;3;No;72;1
+S1944;21;Female;2;2;2;No;61;7;Fair;5;Bachelor;Good;8;Yes;68;2
+S1945;23;Male;6;3;2;Yes;99;6;Poor;0;None;Average;7;No;100;0
+S1946;21;Female;2;1;2;No;92;6;Fair;3;Bachelor;Good;1;Yes;55;2
+S1947;24;Female;4;3;3;Yes;70;6;Good;0;High School;Good;6;Yes;60;1
+S1948;22;Female;3;3;2;No;70;7;Fair;2;Master;Good;7;No;63;3
+S1949;21;Female;4;0;2;No;100;6;Fair;4;Bachelor;Good;4;No;84;2
+S1950;19;Female;3;1;3;No;78;5;Fair;5;High School;Average;2;No;51;1
+S1951;20;Female;3;2;1;No;77;9;Good;5;Bachelor;Poor;10;No;94;2
+S1952;21;Female;4;2;4;Yes;62;6;Poor;1;High School;Average;9;No;66;1
+S1953;20;Female;2;1;0;No;82;6;Fair;5;High School;Average;7;No;62;1
+S1954;19;Male;5;3;4;No;83;8;Good;5;Master;Good;1;Yes;66;3
+S1955;19;Female;3;3;1;Yes;92;10;Poor;3;High School;Average;8;No;87;1
+S1956;20;Female;3;2;2;No;71;5;Good;6;High School;Good;3;No;60;1
+S1957;17;Female;2;2;0;No;70;7;Good;5;High School;Average;4;No;49;1
+S1958;18;Male;0;4;1;Yes;90;6;Good;5;High School;Average;5;No;31;1
+S1959;23;Female;3;4;1;No;95;6;Fair;2;Master;Good;1;No;46;3
+S1960;17;Male;7;2;1;Yes;69;6;Good;6;High School;Average;6;No;100;1
+S1961;17;Female;5;2;2;No;96;5;Good;2;Master;Good;10;No;81;3
+S1962;22;Male;4;3;3;Yes;85;6;Good;0;Master;Average;6;No;55;3
+S1963;23;Female;3;2;2;No;96;5;Poor;0;High School;Good;2;No;53;1
+S1964;23;Other;4;2;2;No;84;8;Good;5;High School;Poor;10;Yes;89;1
+S1965;17;Male;4;3;1;No;60;7;Fair;5;Master;Average;6;Yes;77;3
+S1966;21;Other;2;0;1;No;84;7;Poor;1;High School;Good;8;Yes;56;1
+S1967;22;Male;5;4;4;No;96;6;Fair;0;None;Good;6;No;76;0
+S1968;22;Female;5;3;1;No;76;6;Good;3;High School;Average;4;No;75;1
+S1969;19;Female;5;2;4;Yes;81;7;Fair;5;Bachelor;Average;4;No;83;2
+S1970;24;Female;4;2;2;No;83;5;Fair;3;Bachelor;Average;9;Yes;86;2
+S1971;23;Female;4;2;2;No;56;6;Good;5;High School;Average;6;No;64;1
+S1972;17;Female;4;0;3;No;100;6;Fair;3;High School;Good;8;No;92;1
+S1973;19;Male;4;4;3;No;76;5;Good;4;Master;Good;8;No;75;3
+S1974;20;Male;3;2;2;No;90;4;Fair;3;Bachelor;Poor;7;No;71;2
+S1975;18;Female;3;3;1;No;84;8;Fair;6;Bachelor;Average;3;No;67;2
+S1976;24;Female;4;4;2;No;98;6;Good;0;Bachelor;Good;10;Yes;77;2
+S1977;24;Female;6;1;2;Yes;89;8;Good;5;High School;Average;1;Yes;99;1
+S1978;24;Female;2;3;3;No;83;8;Fair;0;Bachelor;Good;5;Yes;44;2
+S1979;22;Male;1;2;2;No;76;5;Good;6;High School;Poor;10;No;53;1
+S1980;20;Female;4;4;2;No;93;5;Poor;6;High School;Good;10;Yes;81;1
+S1981;24;Male;4;0;4;No;66;10;Fair;3;Bachelor;Average;2;No;66;2
+S1982;20;Female;4;2;2;Yes;92;9;Fair;2;High School;Good;10;No;88;1
+S1983;21;Male;4;2;2;No;74;6;Poor;2;Master;Average;2;No;64;3
+S1984;24;Male;3;3;0;No;98;7;Fair;6;High School;Average;7;No;82;1
+S1985;18;Male;6;3;0;Yes;87;6;Fair;2;Master;Good;3;Yes;81;3
+S1986;20;Male;1;2;2;No;91;7;Poor;5;Master;Poor;8;No;60;3
+S1987;20;Female;2;2;2;Yes;86;6;Fair;1;High School;Average;9;No;56;1
+S1988;18;Male;3;2;1;No;68;4;Fair;4;Bachelor;Average;8;Yes;72;2
+S1989;24;Male;1;1;2;Yes;76;5;Fair;3;High School;Average;6;No;48;1
+S1990;18;Male;3;4;2;No;92;6;Good;1;Master;Good;5;No;64;3
+S1991;20;Male;6;2;3;No;87;5;Good;2;High School;Good;3;No;85;1
+S1992;18;Male;4;0;2;No;97;6;Fair;3;Bachelor;Poor;3;No;72;2
+S1993;20;Male;4;2;1;No;89;5;Good;1;High School;Good;7;No;71;1
+S1994;20;Female;2;1;3;No;75;6;Good;0;High School;Average;5;No;42;1
+S1995;21;Female;3;0;2;No;77;8;Fair;2;High School;Good;6;Yes;76;1
+S1996;17;Female;3;1;2;Yes;86;7;Poor;1;High School;Average;6;Yes;66;1
+S1997;20;Male;3;3;1;No;62;6;Good;5;Bachelor;Good;9;Yes;64;2
+S1998;24;Male;5;4;1;Yes;100;8;Fair;0;Bachelor;Average;1;No;70;2
+S1999;19;Female;4;3;2;No;89;7;Good;2;Bachelor;Average;8;No;75;2
